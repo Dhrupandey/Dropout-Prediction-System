@@ -1,0 +1,5001 @@
+studentID,persona
+E0001,Fast learners
+E0002,Fast learners
+E0003,Good
+E0004,Slow learners
+E0005,Good
+E0006,Slow learners
+E0007,Average
+E0008,Good
+E0009,Good
+E0010,Fast learners
+E0011,Good
+E0012,Slow learners
+E0013,Fast learners
+E0014,Good
+E0015,Fast learners
+E0016,Good
+E0017,Fast learners
+E0018,Good
+E0019,Slow learners
+E0020,Average
+E0021,Good
+E0022,Good
+E0023,Good
+E0024,Average
+E0025,Good
+E0026,Good
+E0027,Good
+E0028,Good
+E0029,Good
+E0030,Fast learners
+E0031,Fast learners
+E0032,Good
+E0033,Good
+E0034,Slow learners
+E0035,Good
+E0036,Good
+E0037,Good
+E0038,Average
+E0039,Average
+E0040,Average
+E0041,Good
+E0042,Good
+E0043,Good
+E0044,Fast learners
+E0045,Good
+E0046,Good
+E0047,Good
+E0048,Fast learners
+E0049,Slow learners
+E0050,Fast learners
+E0051,Fast learners
+E0052,Fast learners
+E0053,Average
+E0054,Average
+E0055,Good
+E0056,Slow learners
+E0057,Fast learners
+E0058,Good
+E0059,Average
+E0060,Average
+E0061,Good
+E0062,Good
+E0063,Slow learners
+E0064,Fast learners
+E0065,Good
+E0066,Fast learners
+E0067,Fast learners
+E0068,Slow learners
+E0069,Average
+E0070,Good
+E0071,Fast learners
+E0072,Good
+E0073,Good
+E0074,Good
+E0075,Slow learners
+E0076,Fast learners
+E0077,Fast learners
+E0078,Average
+E0079,Fast learners
+E0080,Slow learners
+E0081,Fast learners
+E0082,Good
+E0083,Good
+E0084,Good
+E0085,Slow learners
+E0086,Fast learners
+E0087,Average
+E0088,Good
+E0089,Slow learners
+E0090,Fast learners
+E0091,Fast learners
+E0092,Fast learners
+E0093,Good
+E0094,Good
+E0095,Slow learners
+E0096,Good
+E0097,Average
+E0098,Good
+E0099,Good
+E0100,Average
+E0101,Good
+E0102,Fast learners
+E0103,Good
+E0104,Slow learners
+E0105,Good
+E0106,Average
+E0107,Average
+E0108,Good
+E0109,Slow learners
+E0110,Good
+E0111,Slow learners
+E0112,Average
+E0113,Average
+E0114,Good
+E0115,Good
+E0116,Good
+E0117,Good
+E0118,Good
+E0119,Good
+E0120,Average
+E0121,Good
+E0122,Fast learners
+E0123,Good
+E0124,Good
+E0125,Fast learners
+E0126,Fast learners
+E0127,Good
+E0128,Slow learners
+E0129,Good
+E0130,Good
+E0131,Good
+E0132,Good
+E0133,Slow learners
+E0134,Good
+E0135,Good
+E0136,Slow learners
+E0137,Slow learners
+E0138,Average
+E0139,Average
+E0140,Good
+E0141,Fast learners
+E0142,Fast learners
+E0143,Good
+E0144,Good
+E0145,Average
+E0146,Slow learners
+E0147,Good
+E0148,Good
+E0149,Good
+E0150,Good
+E0151,Fast learners
+E0152,Good
+E0153,Good
+E0154,Slow learners
+E0155,Fast learners
+E0156,Good
+E0157,Average
+E0158,Fast learners
+E0159,Good
+E0160,Fast learners
+E0161,Average
+E0162,Good
+E0163,Good
+E0164,Good
+E0165,Good
+E0166,Good
+E0167,Good
+E0168,Fast learners
+E0169,Good
+E0170,Good
+E0171,Good
+E0172,Slow learners
+E0173,Good
+E0174,Fast learners
+E0175,Slow learners
+E0176,Fast learners
+E0177,Average
+E0178,Good
+E0179,Good
+E0180,Slow learners
+E0181,Good
+E0182,Good
+E0183,Fast learners
+E0184,Good
+E0185,Good
+E0186,Fast learners
+E0187,Good
+E0188,Slow learners
+E0189,Good
+E0190,Slow learners
+E0191,Good
+E0192,Slow learners
+E0193,Fast learners
+E0194,Fast learners
+E0195,Slow learners
+E0196,Good
+E0197,Good
+E0198,Slow learners
+E0199,Good
+E0200,Fast learners
+E0201,Good
+E0202,Good
+E0203,Slow learners
+E0204,Average
+E0205,Average
+E0206,Good
+E0207,Good
+E0208,Fast learners
+E0209,Fast learners
+E0210,Good
+E0211,Good
+E0212,Fast learners
+E0213,Good
+E0214,Good
+E0215,Average
+E0216,Good
+E0217,Slow learners
+E0218,Good
+E0219,Average
+E0220,Good
+E0221,Good
+E0222,Good
+E0223,Average
+E0224,Fast learners
+E0225,Average
+E0226,Good
+E0227,Good
+E0228,Fast learners
+E0229,Good
+E0230,Good
+E0231,Good
+E0232,Good
+E0233,Good
+E0234,Good
+E0235,Average
+E0236,Fast learners
+E0237,Fast learners
+E0238,Average
+E0239,Average
+E0240,Good
+E0241,Good
+E0242,Fast learners
+E0243,Good
+E0244,Good
+E0245,Average
+E0246,Slow learners
+E0247,Fast learners
+E0248,Average
+E0249,Fast learners
+E0250,Good
+E0251,Fast learners
+E0252,Average
+E0253,Slow learners
+E0254,Good
+E0255,Average
+E0256,Average
+E0257,Average
+E0258,Average
+E0259,Fast learners
+E0260,Fast learners
+E0261,Good
+E0262,Good
+E0263,Good
+E0264,Good
+E0265,Good
+E0266,Average
+E0267,Fast learners
+E0268,Average
+E0269,Good
+E0270,Slow learners
+E0271,Fast learners
+E0272,Good
+E0273,Good
+E0274,Fast learners
+E0275,Fast learners
+E0276,Slow learners
+E0277,Fast learners
+E0278,Good
+E0279,Good
+E0280,Slow learners
+E0281,Fast learners
+E0282,Slow learners
+E0283,Good
+E0284,Good
+E0285,Good
+E0286,Fast learners
+E0287,Good
+E0288,Slow learners
+E0289,Average
+E0290,Good
+E0291,Slow learners
+E0292,Good
+E0293,Slow learners
+E0294,Good
+E0295,Good
+E0296,Slow learners
+E0297,Fast learners
+E0298,Good
+E0299,Average
+E0300,Good
+E0301,Fast learners
+E0302,Good
+E0303,Average
+E0304,Fast learners
+E0305,Slow learners
+E0306,Average
+E0307,Slow learners
+E0308,Fast learners
+E0309,Good
+E0310,Good
+E0311,Fast learners
+E0312,Good
+E0313,Good
+E0314,Good
+E0315,Good
+E0316,Average
+E0317,Fast learners
+E0318,Good
+E0319,Good
+E0320,Slow learners
+E0321,Good
+E0322,Good
+E0323,Good
+E0324,Good
+E0325,Fast learners
+E0326,Fast learners
+E0327,Good
+E0328,Fast learners
+E0329,Good
+E0330,Slow learners
+E0331,Good
+E0332,Slow learners
+E0333,Slow learners
+E0334,Good
+E0335,Average
+E0336,Good
+E0337,Good
+E0338,Good
+E0339,Slow learners
+E0340,Slow learners
+E0341,Fast learners
+E0342,Good
+E0343,Good
+E0344,Good
+E0345,Average
+E0346,Good
+E0347,Average
+E0348,Good
+E0349,Fast learners
+E0350,Fast learners
+E0351,Good
+E0352,Fast learners
+E0353,Good
+E0354,Average
+E0355,Good
+E0356,Good
+E0357,Good
+E0358,Fast learners
+E0359,Average
+E0360,Fast learners
+E0361,Fast learners
+E0362,Average
+E0363,Good
+E0364,Good
+E0365,Fast learners
+E0366,Fast learners
+E0367,Good
+E0368,Good
+E0369,Fast learners
+E0370,Good
+E0371,Good
+E0372,Slow learners
+E0373,Good
+E0374,Fast learners
+E0375,Slow learners
+E0376,Good
+E0377,Slow learners
+E0378,Fast learners
+E0379,Fast learners
+E0380,Good
+E0381,Good
+E0382,Fast learners
+E0383,Average
+E0384,Fast learners
+E0385,Fast learners
+E0386,Slow learners
+E0387,Good
+E0388,Average
+E0389,Good
+E0390,Slow learners
+E0391,Average
+E0392,Good
+E0393,Average
+E0394,Good
+E0395,Good
+E0396,Good
+E0397,Fast learners
+E0398,Good
+E0399,Average
+E0400,Good
+E0401,Fast learners
+E0402,Fast learners
+E0403,Good
+E0404,Good
+E0405,Fast learners
+E0406,Fast learners
+E0407,Good
+E0408,Good
+E0409,Slow learners
+E0410,Good
+E0411,Good
+E0412,Slow learners
+E0413,Good
+E0414,Average
+E0415,Average
+E0416,Good
+E0417,Good
+E0418,Fast learners
+E0419,Good
+E0420,Good
+E0421,Average
+E0422,Good
+E0423,Slow learners
+E0424,Fast learners
+E0425,Good
+E0426,Good
+E0427,Fast learners
+E0428,Good
+E0429,Average
+E0430,Good
+E0431,Good
+E0432,Good
+E0433,Good
+E0434,Good
+E0435,Good
+E0436,Good
+E0437,Good
+E0438,Average
+E0439,Good
+E0440,Good
+E0441,Average
+E0442,Fast learners
+E0443,Average
+E0444,Good
+E0445,Slow learners
+E0446,Fast learners
+E0447,Good
+E0448,Good
+E0449,Slow learners
+E0450,Slow learners
+E0451,Fast learners
+E0452,Slow learners
+E0453,Slow learners
+E0454,Good
+E0455,Good
+E0456,Good
+E0457,Average
+E0458,Slow learners
+E0459,Good
+E0460,Good
+E0461,Slow learners
+E0462,Average
+E0463,Fast learners
+E0464,Good
+E0465,Good
+E0466,Good
+E0467,Fast learners
+E0468,Fast learners
+E0469,Average
+E0470,Fast learners
+E0471,Good
+E0472,Good
+E0473,Good
+E0474,Good
+E0475,Average
+E0476,Good
+E0477,Fast learners
+E0478,Fast learners
+E0479,Good
+E0480,Good
+E0481,Fast learners
+E0482,Fast learners
+E0483,Fast learners
+E0484,Good
+E0485,Good
+E0486,Good
+E0487,Good
+E0488,Good
+E0489,Fast learners
+E0490,Good
+E0491,Good
+E0492,Good
+E0493,Good
+E0494,Good
+E0495,Fast learners
+E0496,Good
+E0497,Slow learners
+E0498,Slow learners
+E0499,Good
+E0500,Fast learners
+E0501,Slow learners
+E0502,Good
+E0503,Slow learners
+E0504,Average
+E0505,Fast learners
+E0506,Good
+E0507,Slow learners
+E0508,Average
+E0509,Average
+E0510,Good
+E0511,Slow learners
+E0512,Average
+E0513,Average
+E0514,Good
+E0515,Fast learners
+E0516,Fast learners
+E0517,Slow learners
+E0518,Fast learners
+E0519,Fast learners
+E0520,Good
+E0521,Slow learners
+E0522,Average
+E0523,Good
+E0524,Fast learners
+E0525,Good
+E0526,Good
+E0527,Average
+E0528,Slow learners
+E0529,Slow learners
+E0530,Good
+E0531,Average
+E0532,Good
+E0533,Average
+E0534,Good
+E0535,Average
+E0536,Good
+E0537,Fast learners
+E0538,Average
+E0539,Good
+E0540,Good
+E0541,Average
+E0542,Good
+E0543,Average
+E0544,Good
+E0545,Good
+E0546,Average
+E0547,Fast learners
+E0548,Good
+E0549,Average
+E0550,Good
+E0551,Good
+E0552,Fast learners
+E0553,Good
+E0554,Good
+E0555,Good
+E0556,Fast learners
+E0557,Good
+E0558,Good
+E0559,Fast learners
+E0560,Average
+E0561,Good
+E0562,Slow learners
+E0563,Slow learners
+E0564,Slow learners
+E0565,Average
+E0566,Good
+E0567,Slow learners
+E0568,Average
+E0569,Fast learners
+E0570,Fast learners
+E0571,Good
+E0572,Average
+E0573,Good
+E0574,Fast learners
+E0575,Good
+E0576,Good
+E0577,Slow learners
+E0578,Slow learners
+E0579,Good
+E0580,Slow learners
+E0581,Good
+E0582,Good
+E0583,Good
+E0584,Good
+E0585,Average
+E0586,Good
+E0587,Fast learners
+E0588,Good
+E0589,Good
+E0590,Good
+E0591,Good
+E0592,Good
+E0593,Fast learners
+E0594,Average
+E0595,Slow learners
+E0596,Slow learners
+E0597,Good
+E0598,Good
+E0599,Average
+E0600,Slow learners
+E0601,Good
+E0602,Good
+E0603,Slow learners
+E0604,Slow learners
+E0605,Good
+E0606,Fast learners
+E0607,Good
+E0608,Fast learners
+E0609,Good
+E0610,Good
+E0611,Fast learners
+E0612,Good
+E0613,Slow learners
+E0614,Fast learners
+E0615,Slow learners
+E0616,Good
+E0617,Slow learners
+E0618,Fast learners
+E0619,Fast learners
+E0620,Average
+E0621,Good
+E0622,Good
+E0623,Slow learners
+E0624,Average
+E0625,Fast learners
+E0626,Good
+E0627,Average
+E0628,Fast learners
+E0629,Good
+E0630,Average
+E0631,Good
+E0632,Good
+E0633,Good
+E0634,Good
+E0635,Average
+E0636,Fast learners
+E0637,Good
+E0638,Good
+E0639,Good
+E0640,Good
+E0641,Good
+E0642,Fast learners
+E0643,Average
+E0644,Good
+E0645,Good
+E0646,Slow learners
+E0647,Slow learners
+E0648,Fast learners
+E0649,Good
+E0650,Good
+E0651,Good
+E0652,Good
+E0653,Fast learners
+E0654,Fast learners
+E0655,Good
+E0656,Good
+E0657,Average
+E0658,Good
+E0659,Good
+E0660,Slow learners
+E0661,Fast learners
+E0662,Fast learners
+E0663,Good
+E0664,Slow learners
+E0665,Good
+E0666,Slow learners
+E0667,Good
+E0668,Slow learners
+E0669,Good
+E0670,Good
+E0671,Slow learners
+E0672,Good
+E0673,Fast learners
+E0674,Good
+E0675,Good
+E0676,Good
+E0677,Good
+E0678,Good
+E0679,Slow learners
+E0680,Fast learners
+E0681,Good
+E0682,Good
+E0683,Good
+E0684,Average
+E0685,Good
+E0686,Good
+E0687,Fast learners
+E0688,Good
+E0689,Good
+E0690,Good
+E0691,Fast learners
+E0692,Fast learners
+E0693,Slow learners
+E0694,Average
+E0695,Good
+E0696,Fast learners
+E0697,Good
+E0698,Good
+E0699,Average
+E0700,Good
+E0701,Good
+E0702,Good
+E0703,Average
+E0704,Good
+E0705,Good
+E0706,Good
+E0707,Fast learners
+E0708,Good
+E0709,Slow learners
+E0710,Fast learners
+E0711,Fast learners
+E0712,Slow learners
+E0713,Good
+E0714,Average
+E0715,Good
+E0716,Good
+E0717,Good
+E0718,Good
+E0719,Good
+E0720,Good
+E0721,Average
+E0722,Fast learners
+E0723,Good
+E0724,Good
+E0725,Slow learners
+E0726,Good
+E0727,Good
+E0728,Good
+E0729,Slow learners
+E0730,Average
+E0731,Average
+E0732,Good
+E0733,Fast learners
+E0734,Average
+E0735,Good
+E0736,Slow learners
+E0737,Average
+E0738,Good
+E0739,Good
+E0740,Good
+E0741,Slow learners
+E0742,Good
+E0743,Good
+E0744,Good
+E0745,Good
+E0746,Fast learners
+E0747,Good
+E0748,Average
+E0749,Good
+E0750,Good
+E0751,Fast learners
+E0752,Average
+E0753,Average
+E0754,Good
+E0755,Good
+E0756,Good
+E0757,Good
+E0758,Average
+E0759,Good
+E0760,Good
+E0761,Slow learners
+E0762,Good
+E0763,Good
+E0764,Fast learners
+E0765,Good
+E0766,Good
+E0767,Slow learners
+E0768,Slow learners
+E0769,Good
+E0770,Average
+E0771,Good
+E0772,Good
+E0773,Fast learners
+E0774,Average
+E0775,Good
+E0776,Fast learners
+E0777,Good
+E0778,Average
+E0779,Good
+E0780,Good
+E0781,Good
+E0782,Good
+E0783,Average
+E0784,Good
+E0785,Good
+E0786,Fast learners
+E0787,Good
+E0788,Good
+E0789,Good
+E0790,Slow learners
+E0791,Fast learners
+E0792,Fast learners
+E0793,Slow learners
+E0794,Fast learners
+E0795,Fast learners
+E0796,Slow learners
+E0797,Average
+E0798,Slow learners
+E0799,Fast learners
+E0800,Good
+E0801,Good
+E0802,Slow learners
+E0803,Fast learners
+E0804,Fast learners
+E0805,Average
+E0806,Fast learners
+E0807,Fast learners
+E0808,Average
+E0809,Good
+E0810,Slow learners
+E0811,Average
+E0812,Average
+E0813,Good
+E0814,Fast learners
+E0815,Fast learners
+E0816,Good
+E0817,Slow learners
+E0818,Fast learners
+E0819,Slow learners
+E0820,Good
+E0821,Slow learners
+E0822,Fast learners
+E0823,Slow learners
+E0824,Slow learners
+E0825,Good
+E0826,Slow learners
+E0827,Average
+E0828,Fast learners
+E0829,Good
+E0830,Good
+E0831,Fast learners
+E0832,Good
+E0833,Average
+E0834,Fast learners
+E0835,Average
+E0836,Good
+E0837,Slow learners
+E0838,Fast learners
+E0839,Good
+E0840,Good
+E0841,Good
+E0842,Good
+E0843,Fast learners
+E0844,Average
+E0845,Slow learners
+E0846,Slow learners
+E0847,Good
+E0848,Average
+E0849,Good
+E0850,Good
+E0851,Fast learners
+E0852,Good
+E0853,Good
+E0854,Slow learners
+E0855,Good
+E0856,Good
+E0857,Fast learners
+E0858,Good
+E0859,Good
+E0860,Slow learners
+E0861,Good
+E0862,Good
+E0863,Good
+E0864,Good
+E0865,Slow learners
+E0866,Fast learners
+E0867,Average
+E0868,Good
+E0869,Average
+E0870,Fast learners
+E0871,Fast learners
+E0872,Fast learners
+E0873,Fast learners
+E0874,Fast learners
+E0875,Average
+E0876,Good
+E0877,Average
+E0878,Good
+E0879,Good
+E0880,Good
+E0881,Good
+E0882,Good
+E0883,Good
+E0884,Slow learners
+E0885,Slow learners
+E0886,Good
+E0887,Good
+E0888,Slow learners
+E0889,Good
+E0890,Good
+E0891,Good
+E0892,Fast learners
+E0893,Good
+E0894,Good
+E0895,Fast learners
+E0896,Good
+E0897,Good
+E0898,Good
+E0899,Average
+E0900,Fast learners
+E0901,Slow learners
+E0902,Average
+E0903,Good
+E0904,Good
+E0905,Good
+E0906,Fast learners
+E0907,Good
+E0908,Average
+E0909,Good
+E0910,Slow learners
+E0911,Slow learners
+E0912,Average
+E0913,Average
+E0914,Good
+E0915,Good
+E0916,Good
+E0917,Good
+E0918,Fast learners
+E0919,Good
+E0920,Good
+E0921,Fast learners
+E0922,Good
+E0923,Good
+E0924,Average
+E0925,Fast learners
+E0926,Good
+E0927,Good
+E0928,Average
+E0929,Slow learners
+E0930,Slow learners
+E0931,Good
+E0932,Fast learners
+E0933,Fast learners
+E0934,Good
+E0935,Good
+E0936,Fast learners
+E0937,Good
+E0938,Good
+E0939,Good
+E0940,Slow learners
+E0941,Fast learners
+E0942,Good
+E0943,Good
+E0944,Slow learners
+E0945,Slow learners
+E0946,Good
+E0947,Good
+E0948,Good
+E0949,Good
+E0950,Good
+E0951,Fast learners
+E0952,Good
+E0953,Fast learners
+E0954,Good
+E0955,Fast learners
+E0956,Slow learners
+E0957,Good
+E0958,Good
+E0959,Good
+E0960,Slow learners
+E0961,Fast learners
+E0962,Average
+E0963,Good
+E0964,Slow learners
+E0965,Average
+E0966,Slow learners
+E0967,Average
+E0968,Average
+E0969,Average
+E0970,Average
+E0971,Fast learners
+E0972,Good
+E0973,Fast learners
+E0974,Average
+E0975,Average
+E0976,Fast learners
+E0977,Good
+E0978,Good
+E0979,Fast learners
+E0980,Good
+E0981,Good
+E0982,Slow learners
+E0983,Fast learners
+E0984,Average
+E0985,Good
+E0986,Average
+E0987,Good
+E0988,Average
+E0989,Fast learners
+E0990,Fast learners
+E0991,Good
+E0992,Slow learners
+E0993,Fast learners
+E0994,Fast learners
+E0995,Good
+E0996,Good
+E0997,Good
+E0998,Good
+E0999,Good
+E1000,Fast learners
+E1001,Good
+E1002,Average
+E1003,Average
+E1004,Good
+E1005,Good
+E1006,Good
+E1007,Average
+E1008,Good
+E1009,Slow learners
+E1010,Slow learners
+E1011,Good
+E1012,Good
+E1013,Good
+E1014,Slow learners
+E1015,Good
+E1016,Fast learners
+E1017,Good
+E1018,Good
+E1019,Good
+E1020,Fast learners
+E1021,Average
+E1022,Slow learners
+E1023,Good
+E1024,Good
+E1025,Good
+E1026,Average
+E1027,Average
+E1028,Fast learners
+E1029,Good
+E1030,Fast learners
+E1031,Good
+E1032,Slow learners
+E1033,Good
+E1034,Good
+E1035,Good
+E1036,Average
+E1037,Good
+E1038,Good
+E1039,Fast learners
+E1040,Good
+E1041,Fast learners
+E1042,Good
+E1043,Fast learners
+E1044,Fast learners
+E1045,Good
+E1046,Average
+E1047,Fast learners
+E1048,Good
+E1049,Fast learners
+E1050,Good
+E1051,Fast learners
+E1052,Good
+E1053,Average
+E1054,Good
+E1055,Good
+E1056,Good
+E1057,Good
+E1058,Good
+E1059,Slow learners
+E1060,Slow learners
+E1061,Good
+E1062,Average
+E1063,Slow learners
+E1064,Slow learners
+E1065,Slow learners
+E1066,Good
+E1067,Good
+E1068,Good
+E1069,Good
+E1070,Good
+E1071,Slow learners
+E1072,Slow learners
+E1073,Fast learners
+E1074,Average
+E1075,Average
+E1076,Good
+E1077,Fast learners
+E1078,Slow learners
+E1079,Good
+E1080,Good
+E1081,Average
+E1082,Good
+E1083,Slow learners
+E1084,Fast learners
+E1085,Good
+E1086,Average
+E1087,Good
+E1088,Fast learners
+E1089,Slow learners
+E1090,Good
+E1091,Fast learners
+E1092,Good
+E1093,Good
+E1094,Good
+E1095,Good
+E1096,Good
+E1097,Fast learners
+E1098,Good
+E1099,Good
+E1100,Average
+E1101,Good
+E1102,Good
+E1103,Good
+E1104,Slow learners
+E1105,Slow learners
+E1106,Good
+E1107,Slow learners
+E1108,Fast learners
+E1109,Slow learners
+E1110,Fast learners
+E1111,Good
+E1112,Good
+E1113,Good
+E1114,Good
+E1115,Good
+E1116,Good
+E1117,Slow learners
+E1118,Fast learners
+E1119,Fast learners
+E1120,Fast learners
+E1121,Average
+E1122,Slow learners
+E1123,Slow learners
+E1124,Average
+E1125,Fast learners
+E1126,Good
+E1127,Fast learners
+E1128,Average
+E1129,Good
+E1130,Average
+E1131,Average
+E1132,Fast learners
+E1133,Fast learners
+E1134,Slow learners
+E1135,Good
+E1136,Average
+E1137,Good
+E1138,Fast learners
+E1139,Good
+E1140,Good
+E1141,Good
+E1142,Average
+E1143,Good
+E1144,Fast learners
+E1145,Average
+E1146,Good
+E1147,Fast learners
+E1148,Fast learners
+E1149,Fast learners
+E1150,Good
+E1151,Good
+E1152,Good
+E1153,Fast learners
+E1154,Good
+E1155,Average
+E1156,Good
+E1157,Good
+E1158,Fast learners
+E1159,Slow learners
+E1160,Good
+E1161,Average
+E1162,Good
+E1163,Good
+E1164,Fast learners
+E1165,Fast learners
+E1166,Slow learners
+E1167,Slow learners
+E1168,Slow learners
+E1169,Good
+E1170,Fast learners
+E1171,Good
+E1172,Average
+E1173,Slow learners
+E1174,Good
+E1175,Average
+E1176,Fast learners
+E1177,Fast learners
+E1178,Fast learners
+E1179,Good
+E1180,Good
+E1181,Good
+E1182,Average
+E1183,Good
+E1184,Good
+E1185,Slow learners
+E1186,Slow learners
+E1187,Good
+E1188,Good
+E1189,Average
+E1190,Good
+E1191,Slow learners
+E1192,Slow learners
+E1193,Slow learners
+E1194,Good
+E1195,Slow learners
+E1196,Slow learners
+E1197,Slow learners
+E1198,Slow learners
+E1199,Good
+E1200,Fast learners
+E1201,Good
+E1202,Average
+E1203,Good
+E1204,Average
+E1205,Average
+E1206,Good
+E1207,Average
+E1208,Good
+E1209,Average
+E1210,Slow learners
+E1211,Good
+E1212,Good
+E1213,Good
+E1214,Good
+E1215,Good
+E1216,Fast learners
+E1217,Good
+E1218,Fast learners
+E1219,Slow learners
+E1220,Good
+E1221,Average
+E1222,Fast learners
+E1223,Slow learners
+E1224,Good
+E1225,Good
+E1226,Good
+E1227,Fast learners
+E1228,Good
+E1229,Average
+E1230,Good
+E1231,Fast learners
+E1232,Fast learners
+E1233,Fast learners
+E1234,Fast learners
+E1235,Good
+E1236,Good
+E1237,Fast learners
+E1238,Good
+E1239,Good
+E1240,Average
+E1241,Slow learners
+E1242,Average
+E1243,Good
+E1244,Average
+E1245,Slow learners
+E1246,Good
+E1247,Good
+E1248,Good
+E1249,Good
+E1250,Slow learners
+E1251,Good
+E1252,Fast learners
+E1253,Slow learners
+E1254,Good
+E1255,Slow learners
+E1256,Average
+E1257,Good
+E1258,Good
+E1259,Good
+E1260,Good
+E1261,Average
+E1262,Good
+E1263,Good
+E1264,Good
+E1265,Slow learners
+E1266,Fast learners
+E1267,Good
+E1268,Good
+E1269,Good
+E1270,Good
+E1271,Good
+E1272,Slow learners
+E1273,Good
+E1274,Good
+E1275,Average
+E1276,Good
+E1277,Fast learners
+E1278,Good
+E1279,Good
+E1280,Good
+E1281,Slow learners
+E1282,Good
+E1283,Slow learners
+E1284,Fast learners
+E1285,Good
+E1286,Good
+E1287,Fast learners
+E1288,Good
+E1289,Slow learners
+E1290,Slow learners
+E1291,Good
+E1292,Good
+E1293,Good
+E1294,Good
+E1295,Fast learners
+E1296,Slow learners
+E1297,Fast learners
+E1298,Good
+E1299,Good
+E1300,Good
+E1301,Good
+E1302,Slow learners
+E1303,Fast learners
+E1304,Good
+E1305,Average
+E1306,Slow learners
+E1307,Average
+E1308,Good
+E1309,Fast learners
+E1310,Average
+E1311,Average
+E1312,Fast learners
+E1313,Good
+E1314,Average
+E1315,Good
+E1316,Average
+E1317,Good
+E1318,Good
+E1319,Average
+E1320,Good
+E1321,Good
+E1322,Slow learners
+E1323,Fast learners
+E1324,Good
+E1325,Good
+E1326,Fast learners
+E1327,Fast learners
+E1328,Good
+E1329,Average
+E1330,Good
+E1331,Good
+E1332,Good
+E1333,Good
+E1334,Fast learners
+E1335,Good
+E1336,Good
+E1337,Slow learners
+E1338,Good
+E1339,Fast learners
+E1340,Slow learners
+E1341,Good
+E1342,Fast learners
+E1343,Average
+E1344,Fast learners
+E1345,Average
+E1346,Fast learners
+E1347,Good
+E1348,Good
+E1349,Good
+E1350,Good
+E1351,Fast learners
+E1352,Average
+E1353,Slow learners
+E1354,Good
+E1355,Average
+E1356,Slow learners
+E1357,Slow learners
+E1358,Average
+E1359,Good
+E1360,Fast learners
+E1361,Good
+E1362,Fast learners
+E1363,Average
+E1364,Good
+E1365,Fast learners
+E1366,Fast learners
+E1367,Good
+E1368,Slow learners
+E1369,Fast learners
+E1370,Slow learners
+E1371,Average
+E1372,Good
+E1373,Slow learners
+E1374,Fast learners
+E1375,Slow learners
+E1376,Average
+E1377,Good
+E1378,Fast learners
+E1379,Good
+E1380,Average
+E1381,Good
+E1382,Good
+E1383,Average
+E1384,Good
+E1385,Fast learners
+E1386,Slow learners
+E1387,Good
+E1388,Good
+E1389,Good
+E1390,Good
+E1391,Good
+E1392,Fast learners
+E1393,Good
+E1394,Good
+E1395,Fast learners
+E1396,Good
+E1397,Good
+E1398,Fast learners
+E1399,Good
+E1400,Average
+E1401,Good
+E1402,Fast learners
+E1403,Good
+E1404,Good
+E1405,Fast learners
+E1406,Good
+E1407,Good
+E1408,Good
+E1409,Good
+E1410,Slow learners
+E1411,Average
+E1412,Average
+E1413,Average
+E1414,Average
+E1415,Good
+E1416,Good
+E1417,Good
+E1418,Slow learners
+E1419,Good
+E1420,Fast learners
+E1421,Average
+E1422,Good
+E1423,Fast learners
+E1424,Fast learners
+E1425,Good
+E1426,Fast learners
+E1427,Good
+E1428,Fast learners
+E1429,Slow learners
+E1430,Good
+E1431,Fast learners
+E1432,Average
+E1433,Slow learners
+E1434,Fast learners
+E1435,Good
+E1436,Good
+E1437,Good
+E1438,Good
+E1439,Average
+E1440,Fast learners
+E1441,Fast learners
+E1442,Good
+E1443,Good
+E1444,Good
+E1445,Average
+E1446,Fast learners
+E1447,Slow learners
+E1448,Average
+E1449,Average
+E1450,Slow learners
+E1451,Fast learners
+E1452,Fast learners
+E1453,Good
+E1454,Slow learners
+E1455,Good
+E1456,Good
+E1457,Average
+E1458,Good
+E1459,Good
+E1460,Average
+E1461,Good
+E1462,Good
+E1463,Good
+E1464,Good
+E1465,Slow learners
+E1466,Good
+E1467,Average
+E1468,Slow learners
+E1469,Fast learners
+E1470,Average
+E1471,Good
+E1472,Average
+E1473,Good
+E1474,Slow learners
+E1475,Good
+E1476,Fast learners
+E1477,Fast learners
+E1478,Average
+E1479,Good
+E1480,Fast learners
+E1481,Good
+E1482,Good
+E1483,Good
+E1484,Good
+E1485,Fast learners
+E1486,Slow learners
+E1487,Fast learners
+E1488,Slow learners
+E1489,Good
+E1490,Fast learners
+E1491,Good
+E1492,Slow learners
+E1493,Fast learners
+E1494,Slow learners
+E1495,Good
+E1496,Slow learners
+E1497,Good
+E1498,Good
+E1499,Good
+E1500,Good
+E1501,Fast learners
+E1502,Good
+E1503,Slow learners
+E1504,Good
+E1505,Fast learners
+E1506,Good
+E1507,Average
+E1508,Good
+E1509,Good
+E1510,Good
+E1511,Fast learners
+E1512,Fast learners
+E1513,Fast learners
+E1514,Good
+E1515,Slow learners
+E1516,Slow learners
+E1517,Fast learners
+E1518,Slow learners
+E1519,Average
+E1520,Slow learners
+E1521,Good
+E1522,Good
+E1523,Good
+E1524,Fast learners
+E1525,Good
+E1526,Good
+E1527,Good
+E1528,Fast learners
+E1529,Good
+E1530,Good
+E1531,Average
+E1532,Average
+E1533,Slow learners
+E1534,Good
+E1535,Good
+E1536,Good
+E1537,Good
+E1538,Fast learners
+E1539,Fast learners
+E1540,Slow learners
+E1541,Slow learners
+E1542,Fast learners
+E1543,Average
+E1544,Good
+E1545,Good
+E1546,Good
+E1547,Slow learners
+E1548,Good
+E1549,Average
+E1550,Fast learners
+E1551,Good
+E1552,Good
+E1553,Average
+E1554,Good
+E1555,Fast learners
+E1556,Good
+E1557,Good
+E1558,Good
+E1559,Good
+E1560,Good
+E1561,Slow learners
+E1562,Good
+E1563,Good
+E1564,Good
+E1565,Fast learners
+E1566,Good
+E1567,Fast learners
+E1568,Fast learners
+E1569,Slow learners
+E1570,Slow learners
+E1571,Good
+E1572,Good
+E1573,Good
+E1574,Good
+E1575,Slow learners
+E1576,Good
+E1577,Good
+E1578,Average
+E1579,Average
+E1580,Average
+E1581,Good
+E1582,Fast learners
+E1583,Good
+E1584,Good
+E1585,Slow learners
+E1586,Fast learners
+E1587,Good
+E1588,Fast learners
+E1589,Average
+E1590,Good
+E1591,Good
+E1592,Slow learners
+E1593,Good
+E1594,Good
+E1595,Slow learners
+E1596,Fast learners
+E1597,Good
+E1598,Fast learners
+E1599,Good
+E1600,Good
+E1601,Fast learners
+E1602,Fast learners
+E1603,Slow learners
+E1604,Good
+E1605,Fast learners
+E1606,Good
+E1607,Average
+E1608,Good
+E1609,Fast learners
+E1610,Fast learners
+E1611,Fast learners
+E1612,Fast learners
+E1613,Fast learners
+E1614,Average
+E1615,Good
+E1616,Good
+E1617,Average
+E1618,Good
+E1619,Good
+E1620,Good
+E1621,Fast learners
+E1622,Good
+E1623,Good
+E1624,Fast learners
+E1625,Fast learners
+E1626,Good
+E1627,Good
+E1628,Slow learners
+E1629,Fast learners
+E1630,Good
+E1631,Good
+E1632,Good
+E1633,Slow learners
+E1634,Good
+E1635,Slow learners
+E1636,Good
+E1637,Slow learners
+E1638,Good
+E1639,Good
+E1640,Slow learners
+E1641,Good
+E1642,Good
+E1643,Good
+E1644,Good
+E1645,Average
+E1646,Fast learners
+E1647,Good
+E1648,Fast learners
+E1649,Fast learners
+E1650,Average
+E1651,Good
+E1652,Good
+E1653,Good
+E1654,Good
+E1655,Slow learners
+E1656,Average
+E1657,Fast learners
+E1658,Fast learners
+E1659,Good
+E1660,Slow learners
+E1661,Fast learners
+E1662,Slow learners
+E1663,Fast learners
+E1664,Average
+E1665,Fast learners
+E1666,Good
+E1667,Fast learners
+E1668,Good
+E1669,Good
+E1670,Good
+E1671,Good
+E1672,Good
+E1673,Average
+E1674,Good
+E1675,Good
+E1676,Good
+E1677,Average
+E1678,Slow learners
+E1679,Fast learners
+E1680,Average
+E1681,Average
+E1682,Good
+E1683,Good
+E1684,Fast learners
+E1685,Good
+E1686,Fast learners
+E1687,Average
+E1688,Good
+E1689,Average
+E1690,Good
+E1691,Good
+E1692,Slow learners
+E1693,Slow learners
+E1694,Good
+E1695,Good
+E1696,Fast learners
+E1697,Slow learners
+E1698,Good
+E1699,Fast learners
+E1700,Slow learners
+E1701,Good
+E1702,Slow learners
+E1703,Good
+E1704,Slow learners
+E1705,Fast learners
+E1706,Slow learners
+E1707,Slow learners
+E1708,Average
+E1709,Fast learners
+E1710,Good
+E1711,Good
+E1712,Fast learners
+E1713,Good
+E1714,Good
+E1715,Slow learners
+E1716,Fast learners
+E1717,Fast learners
+E1718,Good
+E1719,Good
+E1720,Fast learners
+E1721,Fast learners
+E1722,Fast learners
+E1723,Good
+E1724,Good
+E1725,Good
+E1726,Good
+E1727,Average
+E1728,Fast learners
+E1729,Slow learners
+E1730,Good
+E1731,Good
+E1732,Good
+E1733,Good
+E1734,Good
+E1735,Good
+E1736,Fast learners
+E1737,Good
+E1738,Fast learners
+E1739,Good
+E1740,Good
+E1741,Good
+E1742,Good
+E1743,Slow learners
+E1744,Good
+E1745,Good
+E1746,Good
+E1747,Good
+E1748,Slow learners
+E1749,Slow learners
+E1750,Fast learners
+E1751,Good
+E1752,Average
+E1753,Good
+E1754,Good
+E1755,Average
+E1756,Good
+E1757,Fast learners
+E1758,Average
+E1759,Slow learners
+E1760,Good
+E1761,Fast learners
+E1762,Fast learners
+E1763,Good
+E1764,Average
+E1765,Good
+E1766,Average
+E1767,Fast learners
+E1768,Good
+E1769,Average
+E1770,Good
+E1771,Good
+E1772,Slow learners
+E1773,Average
+E1774,Slow learners
+E1775,Slow learners
+E1776,Slow learners
+E1777,Fast learners
+E1778,Fast learners
+E1779,Slow learners
+E1780,Average
+E1781,Slow learners
+E1782,Good
+E1783,Fast learners
+E1784,Good
+E1785,Good
+E1786,Fast learners
+E1787,Good
+E1788,Average
+E1789,Average
+E1790,Good
+E1791,Slow learners
+E1792,Good
+E1793,Slow learners
+E1794,Good
+E1795,Average
+E1796,Good
+E1797,Average
+E1798,Good
+E1799,Slow learners
+E1800,Average
+E1801,Good
+E1802,Good
+E1803,Good
+E1804,Good
+E1805,Slow learners
+E1806,Good
+E1807,Average
+E1808,Good
+E1809,Slow learners
+E1810,Fast learners
+E1811,Good
+E1812,Good
+E1813,Fast learners
+E1814,Average
+E1815,Good
+E1816,Fast learners
+E1817,Slow learners
+E1818,Fast learners
+E1819,Average
+E1820,Good
+E1821,Good
+E1822,Good
+E1823,Good
+E1824,Good
+E1825,Average
+E1826,Good
+E1827,Good
+E1828,Slow learners
+E1829,Good
+E1830,Good
+E1831,Good
+E1832,Average
+E1833,Good
+E1834,Fast learners
+E1835,Average
+E1836,Good
+E1837,Slow learners
+E1838,Good
+E1839,Good
+E1840,Good
+E1841,Slow learners
+E1842,Good
+E1843,Good
+E1844,Fast learners
+E1845,Fast learners
+E1846,Average
+E1847,Average
+E1848,Fast learners
+E1849,Good
+E1850,Average
+E1851,Good
+E1852,Average
+E1853,Average
+E1854,Average
+E1855,Good
+E1856,Fast learners
+E1857,Good
+E1858,Slow learners
+E1859,Good
+E1860,Fast learners
+E1861,Slow learners
+E1862,Fast learners
+E1863,Good
+E1864,Fast learners
+E1865,Fast learners
+E1866,Fast learners
+E1867,Fast learners
+E1868,Good
+E1869,Average
+E1870,Average
+E1871,Slow learners
+E1872,Slow learners
+E1873,Good
+E1874,Average
+E1875,Good
+E1876,Slow learners
+E1877,Slow learners
+E1878,Good
+E1879,Slow learners
+E1880,Good
+E1881,Average
+E1882,Good
+E1883,Fast learners
+E1884,Good
+E1885,Good
+E1886,Average
+E1887,Good
+E1888,Good
+E1889,Slow learners
+E1890,Slow learners
+E1891,Good
+E1892,Good
+E1893,Good
+E1894,Average
+E1895,Good
+E1896,Fast learners
+E1897,Good
+E1898,Fast learners
+E1899,Average
+E1900,Average
+E1901,Good
+E1902,Good
+E1903,Good
+E1904,Fast learners
+E1905,Slow learners
+E1906,Good
+E1907,Good
+E1908,Fast learners
+E1909,Fast learners
+E1910,Good
+E1911,Good
+E1912,Slow learners
+E1913,Slow learners
+E1914,Good
+E1915,Slow learners
+E1916,Fast learners
+E1917,Fast learners
+E1918,Good
+E1919,Average
+E1920,Good
+E1921,Good
+E1922,Fast learners
+E1923,Good
+E1924,Good
+E1925,Fast learners
+E1926,Fast learners
+E1927,Good
+E1928,Fast learners
+E1929,Average
+E1930,Fast learners
+E1931,Good
+E1932,Good
+E1933,Good
+E1934,Good
+E1935,Average
+E1936,Slow learners
+E1937,Good
+E1938,Good
+E1939,Slow learners
+E1940,Fast learners
+E1941,Good
+E1942,Fast learners
+E1943,Slow learners
+E1944,Good
+E1945,Good
+E1946,Good
+E1947,Slow learners
+E1948,Average
+E1949,Fast learners
+E1950,Slow learners
+E1951,Fast learners
+E1952,Fast learners
+E1953,Slow learners
+E1954,Slow learners
+E1955,Slow learners
+E1956,Good
+E1957,Average
+E1958,Good
+E1959,Fast learners
+E1960,Fast learners
+E1961,Good
+E1962,Good
+E1963,Good
+E1964,Good
+E1965,Good
+E1966,Good
+E1967,Good
+E1968,Fast learners
+E1969,Slow learners
+E1970,Average
+E1971,Fast learners
+E1972,Slow learners
+E1973,Average
+E1974,Average
+E1975,Slow learners
+E1976,Good
+E1977,Good
+E1978,Good
+E1979,Good
+E1980,Good
+E1981,Average
+E1982,Fast learners
+E1983,Good
+E1984,Slow learners
+E1985,Slow learners
+E1986,Good
+E1987,Good
+E1988,Good
+E1989,Fast learners
+E1990,Good
+E1991,Fast learners
+E1992,Good
+E1993,Good
+E1994,Good
+E1995,Average
+E1996,Average
+E1997,Fast learners
+E1998,Good
+E1999,Good
+E2000,Fast learners
+E2001,Fast learners
+E2002,Good
+E2003,Good
+E2004,Good
+E2005,Good
+E2006,Good
+E2007,Good
+E2008,Good
+E2009,Good
+E2010,Slow learners
+E2011,Good
+E2012,Slow learners
+E2013,Fast learners
+E2014,Good
+E2015,Average
+E2016,Fast learners
+E2017,Good
+E2018,Good
+E2019,Average
+E2020,Good
+E2021,Fast learners
+E2022,Fast learners
+E2023,Average
+E2024,Average
+E2025,Good
+E2026,Slow learners
+E2027,Slow learners
+E2028,Good
+E2029,Good
+E2030,Slow learners
+E2031,Good
+E2032,Good
+E2033,Slow learners
+E2034,Average
+E2035,Good
+E2036,Fast learners
+E2037,Average
+E2038,Good
+E2039,Good
+E2040,Good
+E2041,Fast learners
+E2042,Average
+E2043,Good
+E2044,Fast learners
+E2045,Fast learners
+E2046,Good
+E2047,Fast learners
+E2048,Good
+E2049,Good
+E2050,Good
+E2051,Average
+E2052,Fast learners
+E2053,Average
+E2054,Fast learners
+E2055,Average
+E2056,Good
+E2057,Slow learners
+E2058,Good
+E2059,Average
+E2060,Good
+E2061,Fast learners
+E2062,Slow learners
+E2063,Good
+E2064,Good
+E2065,Fast learners
+E2066,Average
+E2067,Average
+E2068,Fast learners
+E2069,Good
+E2070,Slow learners
+E2071,Good
+E2072,Good
+E2073,Good
+E2074,Slow learners
+E2075,Average
+E2076,Average
+E2077,Slow learners
+E2078,Good
+E2079,Good
+E2080,Good
+E2081,Good
+E2082,Fast learners
+E2083,Good
+E2084,Fast learners
+E2085,Fast learners
+E2086,Good
+E2087,Fast learners
+E2088,Fast learners
+E2089,Fast learners
+E2090,Good
+E2091,Average
+E2092,Fast learners
+E2093,Good
+E2094,Fast learners
+E2095,Average
+E2096,Good
+E2097,Average
+E2098,Good
+E2099,Good
+E2100,Fast learners
+E2101,Slow learners
+E2102,Slow learners
+E2103,Fast learners
+E2104,Average
+E2105,Average
+E2106,Average
+E2107,Fast learners
+E2108,Good
+E2109,Slow learners
+E2110,Slow learners
+E2111,Fast learners
+E2112,Good
+E2113,Fast learners
+E2114,Average
+E2115,Good
+E2116,Good
+E2117,Fast learners
+E2118,Average
+E2119,Average
+E2120,Good
+E2121,Good
+E2122,Fast learners
+E2123,Good
+E2124,Good
+E2125,Good
+E2126,Good
+E2127,Fast learners
+E2128,Good
+E2129,Good
+E2130,Good
+E2131,Good
+E2132,Good
+E2133,Average
+E2134,Average
+E2135,Good
+E2136,Good
+E2137,Slow learners
+E2138,Slow learners
+E2139,Fast learners
+E2140,Good
+E2141,Slow learners
+E2142,Good
+E2143,Good
+E2144,Good
+E2145,Slow learners
+E2146,Good
+E2147,Fast learners
+E2148,Good
+E2149,Good
+E2150,Good
+E2151,Good
+E2152,Fast learners
+E2153,Good
+E2154,Average
+E2155,Good
+E2156,Fast learners
+E2157,Fast learners
+E2158,Slow learners
+E2159,Good
+E2160,Good
+E2161,Good
+E2162,Good
+E2163,Good
+E2164,Good
+E2165,Average
+E2166,Good
+E2167,Good
+E2168,Good
+E2169,Fast learners
+E2170,Good
+E2171,Good
+E2172,Good
+E2173,Good
+E2174,Slow learners
+E2175,Good
+E2176,Slow learners
+E2177,Good
+E2178,Good
+E2179,Average
+E2180,Slow learners
+E2181,Slow learners
+E2182,Good
+E2183,Good
+E2184,Average
+E2185,Good
+E2186,Average
+E2187,Good
+E2188,Good
+E2189,Good
+E2190,Good
+E2191,Fast learners
+E2192,Average
+E2193,Slow learners
+E2194,Slow learners
+E2195,Good
+E2196,Fast learners
+E2197,Good
+E2198,Good
+E2199,Good
+E2200,Average
+E2201,Good
+E2202,Good
+E2203,Good
+E2204,Good
+E2205,Average
+E2206,Slow learners
+E2207,Fast learners
+E2208,Good
+E2209,Average
+E2210,Good
+E2211,Good
+E2212,Slow learners
+E2213,Average
+E2214,Good
+E2215,Average
+E2216,Average
+E2217,Good
+E2218,Fast learners
+E2219,Good
+E2220,Good
+E2221,Good
+E2222,Fast learners
+E2223,Good
+E2224,Good
+E2225,Good
+E2226,Good
+E2227,Average
+E2228,Good
+E2229,Slow learners
+E2230,Fast learners
+E2231,Good
+E2232,Good
+E2233,Good
+E2234,Good
+E2235,Good
+E2236,Average
+E2237,Good
+E2238,Slow learners
+E2239,Good
+E2240,Slow learners
+E2241,Good
+E2242,Fast learners
+E2243,Fast learners
+E2244,Fast learners
+E2245,Average
+E2246,Good
+E2247,Fast learners
+E2248,Good
+E2249,Average
+E2250,Good
+E2251,Average
+E2252,Fast learners
+E2253,Good
+E2254,Average
+E2255,Average
+E2256,Average
+E2257,Average
+E2258,Good
+E2259,Good
+E2260,Slow learners
+E2261,Good
+E2262,Average
+E2263,Good
+E2264,Fast learners
+E2265,Slow learners
+E2266,Good
+E2267,Fast learners
+E2268,Slow learners
+E2269,Average
+E2270,Good
+E2271,Good
+E2272,Slow learners
+E2273,Slow learners
+E2274,Good
+E2275,Good
+E2276,Average
+E2277,Average
+E2278,Fast learners
+E2279,Good
+E2280,Good
+E2281,Good
+E2282,Slow learners
+E2283,Good
+E2284,Fast learners
+E2285,Average
+E2286,Fast learners
+E2287,Slow learners
+E2288,Fast learners
+E2289,Good
+E2290,Fast learners
+E2291,Good
+E2292,Good
+E2293,Slow learners
+E2294,Good
+E2295,Slow learners
+E2296,Good
+E2297,Average
+E2298,Good
+E2299,Good
+E2300,Good
+E2301,Good
+E2302,Slow learners
+E2303,Good
+E2304,Fast learners
+E2305,Good
+E2306,Fast learners
+E2307,Slow learners
+E2308,Good
+E2309,Fast learners
+E2310,Good
+E2311,Average
+E2312,Good
+E2313,Slow learners
+E2314,Good
+E2315,Good
+E2316,Fast learners
+E2317,Fast learners
+E2318,Good
+E2319,Good
+E2320,Fast learners
+E2321,Slow learners
+E2322,Good
+E2323,Fast learners
+E2324,Slow learners
+E2325,Good
+E2326,Slow learners
+E2327,Fast learners
+E2328,Good
+E2329,Good
+E2330,Good
+E2331,Good
+E2332,Good
+E2333,Good
+E2334,Fast learners
+E2335,Good
+E2336,Slow learners
+E2337,Good
+E2338,Good
+E2339,Fast learners
+E2340,Good
+E2341,Fast learners
+E2342,Good
+E2343,Good
+E2344,Good
+E2345,Fast learners
+E2346,Good
+E2347,Average
+E2348,Good
+E2349,Average
+E2350,Slow learners
+E2351,Fast learners
+E2352,Average
+E2353,Good
+E2354,Average
+E2355,Average
+E2356,Average
+E2357,Fast learners
+E2358,Average
+E2359,Average
+E2360,Fast learners
+E2361,Fast learners
+E2362,Average
+E2363,Good
+E2364,Good
+E2365,Good
+E2366,Good
+E2367,Good
+E2368,Good
+E2369,Good
+E2370,Good
+E2371,Fast learners
+E2372,Good
+E2373,Average
+E2374,Slow learners
+E2375,Average
+E2376,Good
+E2377,Fast learners
+E2378,Average
+E2379,Good
+E2380,Fast learners
+E2381,Good
+E2382,Good
+E2383,Good
+E2384,Good
+E2385,Average
+E2386,Fast learners
+E2387,Good
+E2388,Fast learners
+E2389,Slow learners
+E2390,Average
+E2391,Good
+E2392,Fast learners
+E2393,Fast learners
+E2394,Good
+E2395,Fast learners
+E2396,Average
+E2397,Slow learners
+E2398,Slow learners
+E2399,Good
+E2400,Fast learners
+E2401,Fast learners
+E2402,Good
+E2403,Average
+E2404,Average
+E2405,Average
+E2406,Slow learners
+E2407,Good
+E2408,Good
+E2409,Slow learners
+E2410,Average
+E2411,Good
+E2412,Average
+E2413,Good
+E2414,Good
+E2415,Good
+E2416,Fast learners
+E2417,Slow learners
+E2418,Average
+E2419,Slow learners
+E2420,Good
+E2421,Good
+E2422,Good
+E2423,Good
+E2424,Good
+E2425,Average
+E2426,Average
+E2427,Good
+E2428,Slow learners
+E2429,Good
+E2430,Slow learners
+E2431,Fast learners
+E2432,Good
+E2433,Slow learners
+E2434,Good
+E2435,Fast learners
+E2436,Fast learners
+E2437,Average
+E2438,Good
+E2439,Good
+E2440,Fast learners
+E2441,Slow learners
+E2442,Slow learners
+E2443,Good
+E2444,Average
+E2445,Fast learners
+E2446,Good
+E2447,Average
+E2448,Good
+E2449,Average
+E2450,Good
+E2451,Slow learners
+E2452,Fast learners
+E2453,Fast learners
+E2454,Good
+E2455,Fast learners
+E2456,Good
+E2457,Fast learners
+E2458,Good
+E2459,Good
+E2460,Good
+E2461,Good
+E2462,Average
+E2463,Good
+E2464,Fast learners
+E2465,Slow learners
+E2466,Good
+E2467,Good
+E2468,Slow learners
+E2469,Slow learners
+E2470,Fast learners
+E2471,Good
+E2472,Good
+E2473,Good
+E2474,Average
+E2475,Good
+E2476,Good
+E2477,Good
+E2478,Good
+E2479,Good
+E2480,Good
+E2481,Good
+E2482,Good
+E2483,Average
+E2484,Fast learners
+E2485,Slow learners
+E2486,Good
+E2487,Good
+E2488,Slow learners
+E2489,Good
+E2490,Good
+E2491,Slow learners
+E2492,Fast learners
+E2493,Good
+E2494,Good
+E2495,Average
+E2496,Good
+E2497,Fast learners
+E2498,Average
+E2499,Good
+E2500,Fast learners
+E2501,Good
+E2502,Fast learners
+E2503,Slow learners
+E2504,Good
+E2505,Fast learners
+E2506,Fast learners
+E2507,Fast learners
+E2508,Slow learners
+E2509,Good
+E2510,Fast learners
+E2511,Average
+E2512,Average
+E2513,Slow learners
+E2514,Good
+E2515,Good
+E2516,Slow learners
+E2517,Slow learners
+E2518,Good
+E2519,Good
+E2520,Fast learners
+E2521,Fast learners
+E2522,Average
+E2523,Slow learners
+E2524,Average
+E2525,Fast learners
+E2526,Average
+E2527,Slow learners
+E2528,Average
+E2529,Slow learners
+E2530,Slow learners
+E2531,Good
+E2532,Average
+E2533,Fast learners
+E2534,Good
+E2535,Good
+E2536,Good
+E2537,Fast learners
+E2538,Good
+E2539,Good
+E2540,Good
+E2541,Good
+E2542,Average
+E2543,Good
+E2544,Fast learners
+E2545,Good
+E2546,Good
+E2547,Good
+E2548,Good
+E2549,Fast learners
+E2550,Fast learners
+E2551,Average
+E2552,Average
+E2553,Good
+E2554,Slow learners
+E2555,Fast learners
+E2556,Fast learners
+E2557,Good
+E2558,Good
+E2559,Average
+E2560,Good
+E2561,Good
+E2562,Good
+E2563,Fast learners
+E2564,Fast learners
+E2565,Fast learners
+E2566,Good
+E2567,Slow learners
+E2568,Good
+E2569,Fast learners
+E2570,Good
+E2571,Good
+E2572,Slow learners
+E2573,Good
+E2574,Fast learners
+E2575,Fast learners
+E2576,Slow learners
+E2577,Good
+E2578,Slow learners
+E2579,Good
+E2580,Good
+E2581,Good
+E2582,Average
+E2583,Good
+E2584,Fast learners
+E2585,Fast learners
+E2586,Fast learners
+E2587,Good
+E2588,Good
+E2589,Fast learners
+E2590,Good
+E2591,Average
+E2592,Slow learners
+E2593,Average
+E2594,Slow learners
+E2595,Fast learners
+E2596,Good
+E2597,Average
+E2598,Good
+E2599,Fast learners
+E2600,Fast learners
+E2601,Average
+E2602,Average
+E2603,Good
+E2604,Good
+E2605,Average
+E2606,Good
+E2607,Slow learners
+E2608,Average
+E2609,Good
+E2610,Good
+E2611,Fast learners
+E2612,Average
+E2613,Good
+E2614,Average
+E2615,Good
+E2616,Good
+E2617,Good
+E2618,Fast learners
+E2619,Slow learners
+E2620,Good
+E2621,Slow learners
+E2622,Slow learners
+E2623,Fast learners
+E2624,Good
+E2625,Good
+E2626,Good
+E2627,Slow learners
+E2628,Fast learners
+E2629,Fast learners
+E2630,Good
+E2631,Fast learners
+E2632,Good
+E2633,Good
+E2634,Slow learners
+E2635,Slow learners
+E2636,Slow learners
+E2637,Good
+E2638,Average
+E2639,Average
+E2640,Good
+E2641,Good
+E2642,Good
+E2643,Good
+E2644,Good
+E2645,Slow learners
+E2646,Good
+E2647,Good
+E2648,Good
+E2649,Good
+E2650,Good
+E2651,Good
+E2652,Fast learners
+E2653,Fast learners
+E2654,Good
+E2655,Fast learners
+E2656,Good
+E2657,Fast learners
+E2658,Good
+E2659,Slow learners
+E2660,Fast learners
+E2661,Good
+E2662,Good
+E2663,Average
+E2664,Slow learners
+E2665,Good
+E2666,Good
+E2667,Good
+E2668,Good
+E2669,Good
+E2670,Good
+E2671,Average
+E2672,Fast learners
+E2673,Average
+E2674,Slow learners
+E2675,Good
+E2676,Good
+E2677,Good
+E2678,Good
+E2679,Average
+E2680,Good
+E2681,Good
+E2682,Good
+E2683,Average
+E2684,Good
+E2685,Average
+E2686,Average
+E2687,Slow learners
+E2688,Fast learners
+E2689,Fast learners
+E2690,Fast learners
+E2691,Good
+E2692,Fast learners
+E2693,Good
+E2694,Average
+E2695,Slow learners
+E2696,Slow learners
+E2697,Good
+E2698,Good
+E2699,Good
+E2700,Good
+E2701,Average
+E2702,Average
+E2703,Good
+E2704,Fast learners
+E2705,Slow learners
+E2706,Good
+E2707,Good
+E2708,Slow learners
+E2709,Good
+E2710,Average
+E2711,Good
+E2712,Fast learners
+E2713,Good
+E2714,Fast learners
+E2715,Slow learners
+E2716,Fast learners
+E2717,Slow learners
+E2718,Good
+E2719,Good
+E2720,Good
+E2721,Fast learners
+E2722,Good
+E2723,Good
+E2724,Good
+E2725,Fast learners
+E2726,Good
+E2727,Average
+E2728,Slow learners
+E2729,Good
+E2730,Good
+E2731,Fast learners
+E2732,Good
+E2733,Fast learners
+E2734,Average
+E2735,Average
+E2736,Good
+E2737,Good
+E2738,Good
+E2739,Fast learners
+E2740,Good
+E2741,Average
+E2742,Fast learners
+E2743,Good
+E2744,Slow learners
+E2745,Good
+E2746,Slow learners
+E2747,Good
+E2748,Good
+E2749,Good
+E2750,Good
+E2751,Fast learners
+E2752,Good
+E2753,Fast learners
+E2754,Average
+E2755,Fast learners
+E2756,Good
+E2757,Good
+E2758,Good
+E2759,Good
+E2760,Good
+E2761,Fast learners
+E2762,Slow learners
+E2763,Slow learners
+E2764,Fast learners
+E2765,Fast learners
+E2766,Slow learners
+E2767,Good
+E2768,Fast learners
+E2769,Fast learners
+E2770,Fast learners
+E2771,Fast learners
+E2772,Fast learners
+E2773,Slow learners
+E2774,Good
+E2775,Slow learners
+E2776,Good
+E2777,Good
+E2778,Good
+E2779,Good
+E2780,Good
+E2781,Fast learners
+E2782,Slow learners
+E2783,Average
+E2784,Slow learners
+E2785,Good
+E2786,Slow learners
+E2787,Good
+E2788,Good
+E2789,Average
+E2790,Good
+E2791,Average
+E2792,Good
+E2793,Good
+E2794,Good
+E2795,Fast learners
+E2796,Good
+E2797,Good
+E2798,Slow learners
+E2799,Fast learners
+E2800,Slow learners
+E2801,Slow learners
+E2802,Good
+E2803,Good
+E2804,Fast learners
+E2805,Good
+E2806,Good
+E2807,Good
+E2808,Good
+E2809,Good
+E2810,Fast learners
+E2811,Slow learners
+E2812,Good
+E2813,Fast learners
+E2814,Good
+E2815,Good
+E2816,Good
+E2817,Good
+E2818,Good
+E2819,Fast learners
+E2820,Good
+E2821,Fast learners
+E2822,Good
+E2823,Fast learners
+E2824,Good
+E2825,Good
+E2826,Average
+E2827,Good
+E2828,Good
+E2829,Slow learners
+E2830,Fast learners
+E2831,Good
+E2832,Fast learners
+E2833,Good
+E2834,Good
+E2835,Average
+E2836,Slow learners
+E2837,Fast learners
+E2838,Good
+E2839,Average
+E2840,Slow learners
+E2841,Good
+E2842,Average
+E2843,Average
+E2844,Good
+E2845,Good
+E2846,Good
+E2847,Fast learners
+E2848,Good
+E2849,Fast learners
+E2850,Good
+E2851,Slow learners
+E2852,Good
+E2853,Slow learners
+E2854,Slow learners
+E2855,Good
+E2856,Average
+E2857,Slow learners
+E2858,Fast learners
+E2859,Good
+E2860,Fast learners
+E2861,Slow learners
+E2862,Fast learners
+E2863,Slow learners
+E2864,Average
+E2865,Average
+E2866,Good
+E2867,Slow learners
+E2868,Average
+E2869,Good
+E2870,Fast learners
+E2871,Good
+E2872,Good
+E2873,Good
+E2874,Fast learners
+E2875,Good
+E2876,Average
+E2877,Average
+E2878,Good
+E2879,Fast learners
+E2880,Fast learners
+E2881,Fast learners
+E2882,Good
+E2883,Good
+E2884,Good
+E2885,Good
+E2886,Fast learners
+E2887,Fast learners
+E2888,Good
+E2889,Good
+E2890,Good
+E2891,Good
+E2892,Good
+E2893,Good
+E2894,Average
+E2895,Good
+E2896,Fast learners
+E2897,Good
+E2898,Good
+E2899,Good
+E2900,Slow learners
+E2901,Good
+E2902,Average
+E2903,Good
+E2904,Good
+E2905,Fast learners
+E2906,Fast learners
+E2907,Good
+E2908,Average
+E2909,Fast learners
+E2910,Good
+E2911,Average
+E2912,Slow learners
+E2913,Fast learners
+E2914,Good
+E2915,Fast learners
+E2916,Slow learners
+E2917,Good
+E2918,Slow learners
+E2919,Good
+E2920,Good
+E2921,Fast learners
+E2922,Slow learners
+E2923,Slow learners
+E2924,Good
+E2925,Good
+E2926,Slow learners
+E2927,Slow learners
+E2928,Slow learners
+E2929,Fast learners
+E2930,Slow learners
+E2931,Fast learners
+E2932,Good
+E2933,Average
+E2934,Good
+E2935,Fast learners
+E2936,Good
+E2937,Good
+E2938,Fast learners
+E2939,Slow learners
+E2940,Fast learners
+E2941,Average
+E2942,Good
+E2943,Fast learners
+E2944,Good
+E2945,Good
+E2946,Good
+E2947,Good
+E2948,Good
+E2949,Fast learners
+E2950,Good
+E2951,Slow learners
+E2952,Good
+E2953,Fast learners
+E2954,Fast learners
+E2955,Fast learners
+E2956,Average
+E2957,Good
+E2958,Average
+E2959,Good
+E2960,Good
+E2961,Good
+E2962,Good
+E2963,Slow learners
+E2964,Good
+E2965,Average
+E2966,Good
+E2967,Average
+E2968,Good
+E2969,Average
+E2970,Fast learners
+E2971,Good
+E2972,Average
+E2973,Average
+E2974,Good
+E2975,Average
+E2976,Slow learners
+E2977,Fast learners
+E2978,Good
+E2979,Good
+E2980,Fast learners
+E2981,Fast learners
+E2982,Average
+E2983,Average
+E2984,Fast learners
+E2985,Fast learners
+E2986,Good
+E2987,Good
+E2988,Slow learners
+E2989,Good
+E2990,Good
+E2991,Average
+E2992,Fast learners
+E2993,Slow learners
+E2994,Average
+E2995,Slow learners
+E2996,Slow learners
+E2997,Slow learners
+E2998,Good
+E2999,Good
+E3000,Good
+E3001,Good
+E3002,Good
+E3003,Slow learners
+E3004,Average
+E3005,Good
+E3006,Good
+E3007,Slow learners
+E3008,Good
+E3009,Good
+E3010,Good
+E3011,Good
+E3012,Good
+E3013,Good
+E3014,Average
+E3015,Fast learners
+E3016,Good
+E3017,Good
+E3018,Average
+E3019,Good
+E3020,Fast learners
+E3021,Fast learners
+E3022,Slow learners
+E3023,Good
+E3024,Slow learners
+E3025,Average
+E3026,Good
+E3027,Average
+E3028,Slow learners
+E3029,Fast learners
+E3030,Good
+E3031,Fast learners
+E3032,Slow learners
+E3033,Good
+E3034,Good
+E3035,Good
+E3036,Fast learners
+E3037,Good
+E3038,Good
+E3039,Fast learners
+E3040,Good
+E3041,Slow learners
+E3042,Good
+E3043,Average
+E3044,Fast learners
+E3045,Good
+E3046,Good
+E3047,Good
+E3048,Fast learners
+E3049,Slow learners
+E3050,Average
+E3051,Good
+E3052,Good
+E3053,Fast learners
+E3054,Good
+E3055,Slow learners
+E3056,Fast learners
+E3057,Fast learners
+E3058,Fast learners
+E3059,Average
+E3060,Good
+E3061,Good
+E3062,Good
+E3063,Fast learners
+E3064,Good
+E3065,Good
+E3066,Fast learners
+E3067,Good
+E3068,Fast learners
+E3069,Average
+E3070,Slow learners
+E3071,Average
+E3072,Good
+E3073,Good
+E3074,Good
+E3075,Good
+E3076,Good
+E3077,Fast learners
+E3078,Good
+E3079,Slow learners
+E3080,Fast learners
+E3081,Slow learners
+E3082,Fast learners
+E3083,Fast learners
+E3084,Average
+E3085,Fast learners
+E3086,Fast learners
+E3087,Fast learners
+E3088,Good
+E3089,Good
+E3090,Slow learners
+E3091,Good
+E3092,Good
+E3093,Average
+E3094,Average
+E3095,Fast learners
+E3096,Good
+E3097,Average
+E3098,Good
+E3099,Average
+E3100,Slow learners
+E3101,Fast learners
+E3102,Slow learners
+E3103,Good
+E3104,Good
+E3105,Good
+E3106,Good
+E3107,Slow learners
+E3108,Fast learners
+E3109,Good
+E3110,Fast learners
+E3111,Good
+E3112,Good
+E3113,Good
+E3114,Fast learners
+E3115,Slow learners
+E3116,Good
+E3117,Good
+E3118,Good
+E3119,Good
+E3120,Slow learners
+E3121,Average
+E3122,Good
+E3123,Good
+E3124,Good
+E3125,Slow learners
+E3126,Good
+E3127,Fast learners
+E3128,Good
+E3129,Average
+E3130,Average
+E3131,Average
+E3132,Slow learners
+E3133,Fast learners
+E3134,Good
+E3135,Good
+E3136,Fast learners
+E3137,Average
+E3138,Fast learners
+E3139,Good
+E3140,Good
+E3141,Slow learners
+E3142,Slow learners
+E3143,Good
+E3144,Good
+E3145,Slow learners
+E3146,Slow learners
+E3147,Good
+E3148,Slow learners
+E3149,Average
+E3150,Slow learners
+E3151,Fast learners
+E3152,Slow learners
+E3153,Good
+E3154,Good
+E3155,Average
+E3156,Fast learners
+E3157,Fast learners
+E3158,Good
+E3159,Good
+E3160,Slow learners
+E3161,Fast learners
+E3162,Good
+E3163,Fast learners
+E3164,Good
+E3165,Slow learners
+E3166,Fast learners
+E3167,Good
+E3168,Good
+E3169,Average
+E3170,Fast learners
+E3171,Fast learners
+E3172,Fast learners
+E3173,Fast learners
+E3174,Good
+E3175,Good
+E3176,Slow learners
+E3177,Fast learners
+E3178,Good
+E3179,Slow learners
+E3180,Good
+E3181,Good
+E3182,Good
+E3183,Good
+E3184,Good
+E3185,Good
+E3186,Good
+E3187,Slow learners
+E3188,Average
+E3189,Slow learners
+E3190,Good
+E3191,Good
+E3192,Good
+E3193,Average
+E3194,Good
+E3195,Good
+E3196,Fast learners
+E3197,Good
+E3198,Good
+E3199,Average
+E3200,Good
+E3201,Average
+E3202,Average
+E3203,Fast learners
+E3204,Good
+E3205,Average
+E3206,Average
+E3207,Good
+E3208,Slow learners
+E3209,Good
+E3210,Good
+E3211,Good
+E3212,Fast learners
+E3213,Good
+E3214,Good
+E3215,Average
+E3216,Good
+E3217,Fast learners
+E3218,Good
+E3219,Slow learners
+E3220,Good
+E3221,Good
+E3222,Good
+E3223,Good
+E3224,Good
+E3225,Good
+E3226,Slow learners
+E3227,Good
+E3228,Fast learners
+E3229,Good
+E3230,Good
+E3231,Average
+E3232,Average
+E3233,Good
+E3234,Good
+E3235,Good
+E3236,Slow learners
+E3237,Good
+E3238,Average
+E3239,Good
+E3240,Fast learners
+E3241,Good
+E3242,Good
+E3243,Slow learners
+E3244,Good
+E3245,Good
+E3246,Good
+E3247,Good
+E3248,Good
+E3249,Good
+E3250,Good
+E3251,Fast learners
+E3252,Good
+E3253,Fast learners
+E3254,Good
+E3255,Fast learners
+E3256,Good
+E3257,Good
+E3258,Good
+E3259,Fast learners
+E3260,Good
+E3261,Fast learners
+E3262,Good
+E3263,Good
+E3264,Good
+E3265,Average
+E3266,Slow learners
+E3267,Good
+E3268,Fast learners
+E3269,Slow learners
+E3270,Good
+E3271,Good
+E3272,Good
+E3273,Good
+E3274,Good
+E3275,Good
+E3276,Average
+E3277,Fast learners
+E3278,Fast learners
+E3279,Average
+E3280,Average
+E3281,Fast learners
+E3282,Fast learners
+E3283,Average
+E3284,Average
+E3285,Fast learners
+E3286,Average
+E3287,Good
+E3288,Average
+E3289,Fast learners
+E3290,Good
+E3291,Good
+E3292,Fast learners
+E3293,Good
+E3294,Slow learners
+E3295,Slow learners
+E3296,Slow learners
+E3297,Slow learners
+E3298,Slow learners
+E3299,Fast learners
+E3300,Average
+E3301,Good
+E3302,Slow learners
+E3303,Good
+E3304,Fast learners
+E3305,Fast learners
+E3306,Slow learners
+E3307,Good
+E3308,Slow learners
+E3309,Good
+E3310,Good
+E3311,Average
+E3312,Good
+E3313,Slow learners
+E3314,Fast learners
+E3315,Slow learners
+E3316,Good
+E3317,Good
+E3318,Fast learners
+E3319,Good
+E3320,Slow learners
+E3321,Good
+E3322,Good
+E3323,Good
+E3324,Fast learners
+E3325,Slow learners
+E3326,Good
+E3327,Good
+E3328,Good
+E3329,Good
+E3330,Good
+E3331,Slow learners
+E3332,Good
+E3333,Slow learners
+E3334,Slow learners
+E3335,Good
+E3336,Slow learners
+E3337,Average
+E3338,Average
+E3339,Good
+E3340,Good
+E3341,Average
+E3342,Good
+E3343,Average
+E3344,Fast learners
+E3345,Good
+E3346,Good
+E3347,Good
+E3348,Good
+E3349,Good
+E3350,Fast learners
+E3351,Good
+E3352,Good
+E3353,Good
+E3354,Good
+E3355,Average
+E3356,Good
+E3357,Good
+E3358,Average
+E3359,Slow learners
+E3360,Fast learners
+E3361,Good
+E3362,Good
+E3363,Good
+E3364,Slow learners
+E3365,Good
+E3366,Average
+E3367,Slow learners
+E3368,Good
+E3369,Slow learners
+E3370,Average
+E3371,Good
+E3372,Average
+E3373,Good
+E3374,Good
+E3375,Slow learners
+E3376,Good
+E3377,Fast learners
+E3378,Good
+E3379,Good
+E3380,Good
+E3381,Slow learners
+E3382,Fast learners
+E3383,Fast learners
+E3384,Good
+E3385,Good
+E3386,Good
+E3387,Good
+E3388,Fast learners
+E3389,Fast learners
+E3390,Good
+E3391,Slow learners
+E3392,Good
+E3393,Fast learners
+E3394,Good
+E3395,Average
+E3396,Good
+E3397,Good
+E3398,Slow learners
+E3399,Average
+E3400,Fast learners
+E3401,Fast learners
+E3402,Slow learners
+E3403,Fast learners
+E3404,Average
+E3405,Slow learners
+E3406,Good
+E3407,Slow learners
+E3408,Slow learners
+E3409,Slow learners
+E3410,Average
+E3411,Good
+E3412,Average
+E3413,Good
+E3414,Fast learners
+E3415,Good
+E3416,Slow learners
+E3417,Good
+E3418,Good
+E3419,Fast learners
+E3420,Good
+E3421,Fast learners
+E3422,Slow learners
+E3423,Good
+E3424,Good
+E3425,Slow learners
+E3426,Good
+E3427,Fast learners
+E3428,Fast learners
+E3429,Good
+E3430,Slow learners
+E3431,Fast learners
+E3432,Slow learners
+E3433,Good
+E3434,Fast learners
+E3435,Fast learners
+E3436,Average
+E3437,Good
+E3438,Good
+E3439,Slow learners
+E3440,Good
+E3441,Good
+E3442,Fast learners
+E3443,Fast learners
+E3444,Average
+E3445,Good
+E3446,Good
+E3447,Slow learners
+E3448,Average
+E3449,Fast learners
+E3450,Good
+E3451,Average
+E3452,Fast learners
+E3453,Good
+E3454,Fast learners
+E3455,Slow learners
+E3456,Slow learners
+E3457,Good
+E3458,Fast learners
+E3459,Good
+E3460,Good
+E3461,Fast learners
+E3462,Good
+E3463,Average
+E3464,Good
+E3465,Average
+E3466,Good
+E3467,Fast learners
+E3468,Slow learners
+E3469,Good
+E3470,Good
+E3471,Average
+E3472,Good
+E3473,Good
+E3474,Good
+E3475,Good
+E3476,Fast learners
+E3477,Average
+E3478,Good
+E3479,Good
+E3480,Slow learners
+E3481,Good
+E3482,Slow learners
+E3483,Average
+E3484,Good
+E3485,Good
+E3486,Average
+E3487,Good
+E3488,Fast learners
+E3489,Good
+E3490,Good
+E3491,Fast learners
+E3492,Slow learners
+E3493,Good
+E3494,Good
+E3495,Good
+E3496,Good
+E3497,Average
+E3498,Fast learners
+E3499,Fast learners
+E3500,Fast learners
+E3501,Slow learners
+E3502,Average
+E3503,Average
+E3504,Slow learners
+E3505,Slow learners
+E3506,Fast learners
+E3507,Slow learners
+E3508,Good
+E3509,Good
+E3510,Slow learners
+E3511,Good
+E3512,Average
+E3513,Fast learners
+E3514,Good
+E3515,Good
+E3516,Good
+E3517,Good
+E3518,Fast learners
+E3519,Fast learners
+E3520,Good
+E3521,Good
+E3522,Good
+E3523,Good
+E3524,Good
+E3525,Good
+E3526,Good
+E3527,Good
+E3528,Good
+E3529,Good
+E3530,Slow learners
+E3531,Good
+E3532,Good
+E3533,Average
+E3534,Good
+E3535,Slow learners
+E3536,Fast learners
+E3537,Good
+E3538,Fast learners
+E3539,Fast learners
+E3540,Fast learners
+E3541,Good
+E3542,Average
+E3543,Good
+E3544,Average
+E3545,Good
+E3546,Good
+E3547,Average
+E3548,Good
+E3549,Slow learners
+E3550,Fast learners
+E3551,Fast learners
+E3552,Good
+E3553,Good
+E3554,Good
+E3555,Good
+E3556,Good
+E3557,Average
+E3558,Fast learners
+E3559,Good
+E3560,Fast learners
+E3561,Slow learners
+E3562,Slow learners
+E3563,Good
+E3564,Slow learners
+E3565,Fast learners
+E3566,Average
+E3567,Slow learners
+E3568,Slow learners
+E3569,Fast learners
+E3570,Fast learners
+E3571,Good
+E3572,Good
+E3573,Average
+E3574,Good
+E3575,Slow learners
+E3576,Good
+E3577,Average
+E3578,Fast learners
+E3579,Good
+E3580,Average
+E3581,Good
+E3582,Fast learners
+E3583,Good
+E3584,Fast learners
+E3585,Slow learners
+E3586,Good
+E3587,Fast learners
+E3588,Slow learners
+E3589,Slow learners
+E3590,Good
+E3591,Fast learners
+E3592,Average
+E3593,Good
+E3594,Good
+E3595,Good
+E3596,Fast learners
+E3597,Fast learners
+E3598,Good
+E3599,Slow learners
+E3600,Good
+E3601,Good
+E3602,Good
+E3603,Good
+E3604,Good
+E3605,Good
+E3606,Fast learners
+E3607,Fast learners
+E3608,Good
+E3609,Good
+E3610,Good
+E3611,Good
+E3612,Good
+E3613,Fast learners
+E3614,Good
+E3615,Good
+E3616,Fast learners
+E3617,Slow learners
+E3618,Good
+E3619,Average
+E3620,Slow learners
+E3621,Slow learners
+E3622,Fast learners
+E3623,Slow learners
+E3624,Fast learners
+E3625,Good
+E3626,Good
+E3627,Good
+E3628,Good
+E3629,Good
+E3630,Average
+E3631,Fast learners
+E3632,Fast learners
+E3633,Good
+E3634,Slow learners
+E3635,Good
+E3636,Good
+E3637,Slow learners
+E3638,Average
+E3639,Slow learners
+E3640,Good
+E3641,Good
+E3642,Slow learners
+E3643,Good
+E3644,Average
+E3645,Fast learners
+E3646,Average
+E3647,Good
+E3648,Average
+E3649,Good
+E3650,Average
+E3651,Fast learners
+E3652,Good
+E3653,Fast learners
+E3654,Good
+E3655,Average
+E3656,Good
+E3657,Good
+E3658,Slow learners
+E3659,Good
+E3660,Average
+E3661,Good
+E3662,Good
+E3663,Average
+E3664,Slow learners
+E3665,Good
+E3666,Slow learners
+E3667,Average
+E3668,Good
+E3669,Good
+E3670,Fast learners
+E3671,Good
+E3672,Fast learners
+E3673,Good
+E3674,Good
+E3675,Fast learners
+E3676,Good
+E3677,Fast learners
+E3678,Average
+E3679,Good
+E3680,Good
+E3681,Fast learners
+E3682,Good
+E3683,Average
+E3684,Good
+E3685,Good
+E3686,Fast learners
+E3687,Fast learners
+E3688,Fast learners
+E3689,Good
+E3690,Good
+E3691,Fast learners
+E3692,Good
+E3693,Slow learners
+E3694,Fast learners
+E3695,Average
+E3696,Average
+E3697,Good
+E3698,Fast learners
+E3699,Good
+E3700,Good
+E3701,Slow learners
+E3702,Good
+E3703,Slow learners
+E3704,Good
+E3705,Good
+E3706,Good
+E3707,Fast learners
+E3708,Average
+E3709,Average
+E3710,Fast learners
+E3711,Good
+E3712,Good
+E3713,Average
+E3714,Good
+E3715,Good
+E3716,Slow learners
+E3717,Average
+E3718,Average
+E3719,Good
+E3720,Good
+E3721,Good
+E3722,Fast learners
+E3723,Good
+E3724,Good
+E3725,Good
+E3726,Good
+E3727,Slow learners
+E3728,Fast learners
+E3729,Average
+E3730,Good
+E3731,Good
+E3732,Good
+E3733,Average
+E3734,Good
+E3735,Slow learners
+E3736,Fast learners
+E3737,Good
+E3738,Slow learners
+E3739,Good
+E3740,Good
+E3741,Good
+E3742,Good
+E3743,Good
+E3744,Good
+E3745,Slow learners
+E3746,Good
+E3747,Good
+E3748,Slow learners
+E3749,Slow learners
+E3750,Average
+E3751,Good
+E3752,Good
+E3753,Slow learners
+E3754,Good
+E3755,Good
+E3756,Average
+E3757,Slow learners
+E3758,Good
+E3759,Good
+E3760,Good
+E3761,Good
+E3762,Good
+E3763,Good
+E3764,Good
+E3765,Slow learners
+E3766,Good
+E3767,Good
+E3768,Good
+E3769,Slow learners
+E3770,Good
+E3771,Good
+E3772,Fast learners
+E3773,Good
+E3774,Fast learners
+E3775,Slow learners
+E3776,Slow learners
+E3777,Good
+E3778,Good
+E3779,Good
+E3780,Average
+E3781,Good
+E3782,Good
+E3783,Slow learners
+E3784,Average
+E3785,Good
+E3786,Good
+E3787,Fast learners
+E3788,Good
+E3789,Good
+E3790,Good
+E3791,Fast learners
+E3792,Fast learners
+E3793,Good
+E3794,Good
+E3795,Good
+E3796,Good
+E3797,Fast learners
+E3798,Average
+E3799,Average
+E3800,Fast learners
+E3801,Good
+E3802,Good
+E3803,Good
+E3804,Fast learners
+E3805,Average
+E3806,Good
+E3807,Slow learners
+E3808,Good
+E3809,Good
+E3810,Fast learners
+E3811,Good
+E3812,Good
+E3813,Good
+E3814,Fast learners
+E3815,Average
+E3816,Good
+E3817,Slow learners
+E3818,Fast learners
+E3819,Good
+E3820,Good
+E3821,Good
+E3822,Good
+E3823,Good
+E3824,Slow learners
+E3825,Good
+E3826,Good
+E3827,Slow learners
+E3828,Good
+E3829,Good
+E3830,Good
+E3831,Good
+E3832,Good
+E3833,Good
+E3834,Good
+E3835,Slow learners
+E3836,Fast learners
+E3837,Good
+E3838,Good
+E3839,Good
+E3840,Good
+E3841,Good
+E3842,Fast learners
+E3843,Average
+E3844,Slow learners
+E3845,Good
+E3846,Good
+E3847,Average
+E3848,Good
+E3849,Good
+E3850,Good
+E3851,Average
+E3852,Average
+E3853,Average
+E3854,Slow learners
+E3855,Good
+E3856,Average
+E3857,Slow learners
+E3858,Average
+E3859,Good
+E3860,Fast learners
+E3861,Good
+E3862,Average
+E3863,Slow learners
+E3864,Good
+E3865,Average
+E3866,Average
+E3867,Good
+E3868,Average
+E3869,Good
+E3870,Average
+E3871,Average
+E3872,Fast learners
+E3873,Slow learners
+E3874,Fast learners
+E3875,Fast learners
+E3876,Good
+E3877,Slow learners
+E3878,Fast learners
+E3879,Fast learners
+E3880,Average
+E3881,Average
+E3882,Good
+E3883,Fast learners
+E3884,Average
+E3885,Good
+E3886,Fast learners
+E3887,Average
+E3888,Good
+E3889,Good
+E3890,Average
+E3891,Fast learners
+E3892,Fast learners
+E3893,Average
+E3894,Good
+E3895,Slow learners
+E3896,Good
+E3897,Good
+E3898,Slow learners
+E3899,Average
+E3900,Good
+E3901,Slow learners
+E3902,Good
+E3903,Fast learners
+E3904,Good
+E3905,Slow learners
+E3906,Good
+E3907,Good
+E3908,Average
+E3909,Good
+E3910,Good
+E3911,Good
+E3912,Average
+E3913,Average
+E3914,Fast learners
+E3915,Good
+E3916,Average
+E3917,Good
+E3918,Slow learners
+E3919,Average
+E3920,Fast learners
+E3921,Good
+E3922,Fast learners
+E3923,Good
+E3924,Good
+E3925,Slow learners
+E3926,Good
+E3927,Fast learners
+E3928,Average
+E3929,Fast learners
+E3930,Slow learners
+E3931,Fast learners
+E3932,Good
+E3933,Fast learners
+E3934,Slow learners
+E3935,Fast learners
+E3936,Fast learners
+E3937,Average
+E3938,Average
+E3939,Average
+E3940,Good
+E3941,Good
+E3942,Fast learners
+E3943,Slow learners
+E3944,Average
+E3945,Fast learners
+E3946,Average
+E3947,Slow learners
+E3948,Good
+E3949,Fast learners
+E3950,Average
+E3951,Fast learners
+E3952,Good
+E3953,Fast learners
+E3954,Good
+E3955,Good
+E3956,Fast learners
+E3957,Average
+E3958,Fast learners
+E3959,Average
+E3960,Good
+E3961,Good
+E3962,Good
+E3963,Good
+E3964,Fast learners
+E3965,Good
+E3966,Good
+E3967,Slow learners
+E3968,Good
+E3969,Good
+E3970,Good
+E3971,Slow learners
+E3972,Good
+E3973,Good
+E3974,Slow learners
+E3975,Fast learners
+E3976,Fast learners
+E3977,Average
+E3978,Good
+E3979,Fast learners
+E3980,Good
+E3981,Fast learners
+E3982,Good
+E3983,Good
+E3984,Good
+E3985,Fast learners
+E3986,Good
+E3987,Slow learners
+E3988,Good
+E3989,Average
+E3990,Average
+E3991,Average
+E3992,Good
+E3993,Good
+E3994,Good
+E3995,Good
+E3996,Good
+E3997,Good
+E3998,Average
+E3999,Slow learners
+E4000,Slow learners
+E4001,Good
+E4002,Good
+E4003,Good
+E4004,Fast learners
+E4005,Fast learners
+E4006,Good
+E4007,Good
+E4008,Good
+E4009,Good
+E4010,Slow learners
+E4011,Good
+E4012,Average
+E4013,Good
+E4014,Good
+E4015,Good
+E4016,Good
+E4017,Good
+E4018,Good
+E4019,Fast learners
+E4020,Slow learners
+E4021,Fast learners
+E4022,Good
+E4023,Good
+E4024,Good
+E4025,Slow learners
+E4026,Average
+E4027,Slow learners
+E4028,Good
+E4029,Slow learners
+E4030,Average
+E4031,Fast learners
+E4032,Good
+E4033,Good
+E4034,Good
+E4035,Good
+E4036,Slow learners
+E4037,Good
+E4038,Good
+E4039,Slow learners
+E4040,Average
+E4041,Slow learners
+E4042,Average
+E4043,Slow learners
+E4044,Good
+E4045,Good
+E4046,Good
+E4047,Good
+E4048,Good
+E4049,Good
+E4050,Good
+E4051,Good
+E4052,Good
+E4053,Fast learners
+E4054,Good
+E4055,Good
+E4056,Good
+E4057,Good
+E4058,Slow learners
+E4059,Fast learners
+E4060,Average
+E4061,Fast learners
+E4062,Good
+E4063,Good
+E4064,Fast learners
+E4065,Fast learners
+E4066,Good
+E4067,Slow learners
+E4068,Fast learners
+E4069,Fast learners
+E4070,Good
+E4071,Good
+E4072,Fast learners
+E4073,Good
+E4074,Good
+E4075,Good
+E4076,Good
+E4077,Slow learners
+E4078,Fast learners
+E4079,Good
+E4080,Average
+E4081,Average
+E4082,Good
+E4083,Fast learners
+E4084,Good
+E4085,Fast learners
+E4086,Good
+E4087,Good
+E4088,Good
+E4089,Good
+E4090,Good
+E4091,Good
+E4092,Good
+E4093,Good
+E4094,Fast learners
+E4095,Fast learners
+E4096,Average
+E4097,Fast learners
+E4098,Fast learners
+E4099,Good
+E4100,Good
+E4101,Fast learners
+E4102,Good
+E4103,Good
+E4104,Fast learners
+E4105,Fast learners
+E4106,Slow learners
+E4107,Slow learners
+E4108,Fast learners
+E4109,Average
+E4110,Good
+E4111,Good
+E4112,Fast learners
+E4113,Good
+E4114,Good
+E4115,Fast learners
+E4116,Good
+E4117,Average
+E4118,Average
+E4119,Good
+E4120,Good
+E4121,Good
+E4122,Slow learners
+E4123,Good
+E4124,Good
+E4125,Good
+E4126,Good
+E4127,Slow learners
+E4128,Good
+E4129,Average
+E4130,Slow learners
+E4131,Fast learners
+E4132,Good
+E4133,Average
+E4134,Good
+E4135,Average
+E4136,Average
+E4137,Good
+E4138,Fast learners
+E4139,Slow learners
+E4140,Good
+E4141,Fast learners
+E4142,Slow learners
+E4143,Good
+E4144,Good
+E4145,Good
+E4146,Good
+E4147,Fast learners
+E4148,Fast learners
+E4149,Average
+E4150,Slow learners
+E4151,Fast learners
+E4152,Fast learners
+E4153,Average
+E4154,Slow learners
+E4155,Good
+E4156,Good
+E4157,Average
+E4158,Slow learners
+E4159,Good
+E4160,Good
+E4161,Average
+E4162,Slow learners
+E4163,Good
+E4164,Slow learners
+E4165,Good
+E4166,Fast learners
+E4167,Slow learners
+E4168,Good
+E4169,Average
+E4170,Good
+E4171,Good
+E4172,Good
+E4173,Fast learners
+E4174,Good
+E4175,Good
+E4176,Good
+E4177,Fast learners
+E4178,Good
+E4179,Fast learners
+E4180,Slow learners
+E4181,Average
+E4182,Fast learners
+E4183,Fast learners
+E4184,Good
+E4185,Good
+E4186,Good
+E4187,Slow learners
+E4188,Good
+E4189,Good
+E4190,Average
+E4191,Good
+E4192,Slow learners
+E4193,Good
+E4194,Fast learners
+E4195,Fast learners
+E4196,Good
+E4197,Average
+E4198,Good
+E4199,Fast learners
+E4200,Fast learners
+E4201,Slow learners
+E4202,Good
+E4203,Good
+E4204,Fast learners
+E4205,Good
+E4206,Fast learners
+E4207,Good
+E4208,Average
+E4209,Good
+E4210,Good
+E4211,Average
+E4212,Good
+E4213,Fast learners
+E4214,Slow learners
+E4215,Average
+E4216,Good
+E4217,Good
+E4218,Good
+E4219,Slow learners
+E4220,Good
+E4221,Good
+E4222,Good
+E4223,Fast learners
+E4224,Slow learners
+E4225,Average
+E4226,Good
+E4227,Average
+E4228,Fast learners
+E4229,Good
+E4230,Average
+E4231,Fast learners
+E4232,Good
+E4233,Good
+E4234,Good
+E4235,Good
+E4236,Good
+E4237,Good
+E4238,Average
+E4239,Average
+E4240,Average
+E4241,Good
+E4242,Slow learners
+E4243,Good
+E4244,Slow learners
+E4245,Average
+E4246,Good
+E4247,Fast learners
+E4248,Average
+E4249,Good
+E4250,Fast learners
+E4251,Good
+E4252,Average
+E4253,Good
+E4254,Good
+E4255,Slow learners
+E4256,Average
+E4257,Good
+E4258,Good
+E4259,Average
+E4260,Good
+E4261,Good
+E4262,Good
+E4263,Average
+E4264,Good
+E4265,Good
+E4266,Good
+E4267,Good
+E4268,Good
+E4269,Average
+E4270,Good
+E4271,Good
+E4272,Good
+E4273,Good
+E4274,Fast learners
+E4275,Average
+E4276,Fast learners
+E4277,Good
+E4278,Fast learners
+E4279,Fast learners
+E4280,Slow learners
+E4281,Slow learners
+E4282,Good
+E4283,Fast learners
+E4284,Good
+E4285,Slow learners
+E4286,Average
+E4287,Good
+E4288,Good
+E4289,Good
+E4290,Slow learners
+E4291,Good
+E4292,Good
+E4293,Fast learners
+E4294,Slow learners
+E4295,Slow learners
+E4296,Good
+E4297,Average
+E4298,Average
+E4299,Fast learners
+E4300,Good
+E4301,Good
+E4302,Fast learners
+E4303,Good
+E4304,Slow learners
+E4305,Good
+E4306,Fast learners
+E4307,Good
+E4308,Average
+E4309,Slow learners
+E4310,Good
+E4311,Fast learners
+E4312,Good
+E4313,Good
+E4314,Good
+E4315,Good
+E4316,Slow learners
+E4317,Good
+E4318,Good
+E4319,Fast learners
+E4320,Slow learners
+E4321,Good
+E4322,Good
+E4323,Good
+E4324,Good
+E4325,Good
+E4326,Good
+E4327,Average
+E4328,Average
+E4329,Good
+E4330,Fast learners
+E4331,Good
+E4332,Average
+E4333,Fast learners
+E4334,Good
+E4335,Slow learners
+E4336,Slow learners
+E4337,Fast learners
+E4338,Fast learners
+E4339,Good
+E4340,Good
+E4341,Good
+E4342,Average
+E4343,Average
+E4344,Slow learners
+E4345,Fast learners
+E4346,Good
+E4347,Fast learners
+E4348,Good
+E4349,Good
+E4350,Slow learners
+E4351,Slow learners
+E4352,Good
+E4353,Good
+E4354,Good
+E4355,Good
+E4356,Good
+E4357,Good
+E4358,Good
+E4359,Good
+E4360,Good
+E4361,Fast learners
+E4362,Fast learners
+E4363,Fast learners
+E4364,Good
+E4365,Average
+E4366,Fast learners
+E4367,Good
+E4368,Good
+E4369,Good
+E4370,Average
+E4371,Slow learners
+E4372,Slow learners
+E4373,Slow learners
+E4374,Good
+E4375,Fast learners
+E4376,Good
+E4377,Average
+E4378,Slow learners
+E4379,Good
+E4380,Slow learners
+E4381,Slow learners
+E4382,Average
+E4383,Good
+E4384,Good
+E4385,Slow learners
+E4386,Slow learners
+E4387,Good
+E4388,Good
+E4389,Slow learners
+E4390,Good
+E4391,Good
+E4392,Average
+E4393,Slow learners
+E4394,Good
+E4395,Fast learners
+E4396,Slow learners
+E4397,Good
+E4398,Good
+E4399,Fast learners
+E4400,Good
+E4401,Good
+E4402,Fast learners
+E4403,Fast learners
+E4404,Good
+E4405,Good
+E4406,Fast learners
+E4407,Fast learners
+E4408,Good
+E4409,Good
+E4410,Fast learners
+E4411,Slow learners
+E4412,Good
+E4413,Slow learners
+E4414,Good
+E4415,Good
+E4416,Average
+E4417,Good
+E4418,Good
+E4419,Good
+E4420,Good
+E4421,Good
+E4422,Average
+E4423,Good
+E4424,Average
+E4425,Good
+E4426,Slow learners
+E4427,Slow learners
+E4428,Good
+E4429,Good
+E4430,Fast learners
+E4431,Slow learners
+E4432,Good
+E4433,Slow learners
+E4434,Fast learners
+E4435,Fast learners
+E4436,Fast learners
+E4437,Good
+E4438,Good
+E4439,Good
+E4440,Fast learners
+E4441,Fast learners
+E4442,Fast learners
+E4443,Slow learners
+E4444,Good
+E4445,Fast learners
+E4446,Average
+E4447,Slow learners
+E4448,Good
+E4449,Slow learners
+E4450,Good
+E4451,Average
+E4452,Good
+E4453,Average
+E4454,Average
+E4455,Good
+E4456,Good
+E4457,Good
+E4458,Average
+E4459,Good
+E4460,Average
+E4461,Good
+E4462,Good
+E4463,Good
+E4464,Good
+E4465,Fast learners
+E4466,Good
+E4467,Slow learners
+E4468,Good
+E4469,Fast learners
+E4470,Fast learners
+E4471,Fast learners
+E4472,Good
+E4473,Fast learners
+E4474,Good
+E4475,Slow learners
+E4476,Good
+E4477,Good
+E4478,Good
+E4479,Fast learners
+E4480,Fast learners
+E4481,Slow learners
+E4482,Good
+E4483,Average
+E4484,Good
+E4485,Good
+E4486,Fast learners
+E4487,Good
+E4488,Good
+E4489,Slow learners
+E4490,Fast learners
+E4491,Good
+E4492,Fast learners
+E4493,Average
+E4494,Slow learners
+E4495,Average
+E4496,Good
+E4497,Fast learners
+E4498,Good
+E4499,Good
+E4500,Slow learners
+E4501,Good
+E4502,Average
+E4503,Fast learners
+E4504,Slow learners
+E4505,Good
+E4506,Slow learners
+E4507,Average
+E4508,Slow learners
+E4509,Good
+E4510,Good
+E4511,Average
+E4512,Fast learners
+E4513,Good
+E4514,Good
+E4515,Good
+E4516,Good
+E4517,Good
+E4518,Average
+E4519,Fast learners
+E4520,Fast learners
+E4521,Fast learners
+E4522,Average
+E4523,Good
+E4524,Average
+E4525,Average
+E4526,Good
+E4527,Slow learners
+E4528,Good
+E4529,Good
+E4530,Fast learners
+E4531,Slow learners
+E4532,Fast learners
+E4533,Average
+E4534,Slow learners
+E4535,Good
+E4536,Fast learners
+E4537,Good
+E4538,Good
+E4539,Fast learners
+E4540,Average
+E4541,Good
+E4542,Fast learners
+E4543,Average
+E4544,Good
+E4545,Good
+E4546,Fast learners
+E4547,Fast learners
+E4548,Good
+E4549,Good
+E4550,Fast learners
+E4551,Slow learners
+E4552,Slow learners
+E4553,Average
+E4554,Good
+E4555,Good
+E4556,Good
+E4557,Slow learners
+E4558,Good
+E4559,Good
+E4560,Good
+E4561,Slow learners
+E4562,Average
+E4563,Good
+E4564,Slow learners
+E4565,Good
+E4566,Fast learners
+E4567,Good
+E4568,Good
+E4569,Slow learners
+E4570,Average
+E4571,Good
+E4572,Average
+E4573,Good
+E4574,Average
+E4575,Average
+E4576,Good
+E4577,Good
+E4578,Slow learners
+E4579,Slow learners
+E4580,Slow learners
+E4581,Fast learners
+E4582,Fast learners
+E4583,Fast learners
+E4584,Fast learners
+E4585,Good
+E4586,Good
+E4587,Average
+E4588,Good
+E4589,Fast learners
+E4590,Slow learners
+E4591,Good
+E4592,Good
+E4593,Good
+E4594,Good
+E4595,Good
+E4596,Average
+E4597,Good
+E4598,Fast learners
+E4599,Good
+E4600,Average
+E4601,Good
+E4602,Fast learners
+E4603,Slow learners
+E4604,Average
+E4605,Slow learners
+E4606,Slow learners
+E4607,Good
+E4608,Slow learners
+E4609,Good
+E4610,Good
+E4611,Good
+E4612,Average
+E4613,Good
+E4614,Average
+E4615,Good
+E4616,Good
+E4617,Good
+E4618,Fast learners
+E4619,Average
+E4620,Good
+E4621,Good
+E4622,Fast learners
+E4623,Slow learners
+E4624,Slow learners
+E4625,Average
+E4626,Fast learners
+E4627,Average
+E4628,Good
+E4629,Fast learners
+E4630,Good
+E4631,Fast learners
+E4632,Good
+E4633,Average
+E4634,Slow learners
+E4635,Average
+E4636,Slow learners
+E4637,Fast learners
+E4638,Good
+E4639,Average
+E4640,Average
+E4641,Average
+E4642,Fast learners
+E4643,Fast learners
+E4644,Good
+E4645,Good
+E4646,Fast learners
+E4647,Good
+E4648,Slow learners
+E4649,Good
+E4650,Good
+E4651,Good
+E4652,Slow learners
+E4653,Good
+E4654,Slow learners
+E4655,Slow learners
+E4656,Fast learners
+E4657,Good
+E4658,Good
+E4659,Average
+E4660,Fast learners
+E4661,Average
+E4662,Fast learners
+E4663,Fast learners
+E4664,Average
+E4665,Slow learners
+E4666,Fast learners
+E4667,Good
+E4668,Good
+E4669,Good
+E4670,Fast learners
+E4671,Slow learners
+E4672,Fast learners
+E4673,Slow learners
+E4674,Good
+E4675,Good
+E4676,Fast learners
+E4677,Fast learners
+E4678,Average
+E4679,Slow learners
+E4680,Good
+E4681,Good
+E4682,Slow learners
+E4683,Good
+E4684,Slow learners
+E4685,Fast learners
+E4686,Good
+E4687,Average
+E4688,Fast learners
+E4689,Good
+E4690,Fast learners
+E4691,Good
+E4692,Slow learners
+E4693,Good
+E4694,Average
+E4695,Slow learners
+E4696,Good
+E4697,Fast learners
+E4698,Good
+E4699,Good
+E4700,Good
+E4701,Good
+E4702,Good
+E4703,Good
+E4704,Average
+E4705,Slow learners
+E4706,Good
+E4707,Average
+E4708,Good
+E4709,Good
+E4710,Fast learners
+E4711,Good
+E4712,Average
+E4713,Slow learners
+E4714,Good
+E4715,Average
+E4716,Slow learners
+E4717,Fast learners
+E4718,Good
+E4719,Good
+E4720,Slow learners
+E4721,Good
+E4722,Good
+E4723,Fast learners
+E4724,Good
+E4725,Good
+E4726,Good
+E4727,Good
+E4728,Good
+E4729,Fast learners
+E4730,Good
+E4731,Average
+E4732,Good
+E4733,Good
+E4734,Good
+E4735,Good
+E4736,Good
+E4737,Good
+E4738,Average
+E4739,Good
+E4740,Average
+E4741,Good
+E4742,Average
+E4743,Good
+E4744,Good
+E4745,Slow learners
+E4746,Slow learners
+E4747,Average
+E4748,Good
+E4749,Good
+E4750,Good
+E4751,Good
+E4752,Good
+E4753,Good
+E4754,Fast learners
+E4755,Good
+E4756,Fast learners
+E4757,Average
+E4758,Good
+E4759,Good
+E4760,Good
+E4761,Fast learners
+E4762,Average
+E4763,Average
+E4764,Good
+E4765,Fast learners
+E4766,Fast learners
+E4767,Fast learners
+E4768,Average
+E4769,Fast learners
+E4770,Slow learners
+E4771,Fast learners
+E4772,Good
+E4773,Good
+E4774,Good
+E4775,Slow learners
+E4776,Good
+E4777,Good
+E4778,Average
+E4779,Slow learners
+E4780,Fast learners
+E4781,Good
+E4782,Slow learners
+E4783,Fast learners
+E4784,Fast learners
+E4785,Good
+E4786,Slow learners
+E4787,Good
+E4788,Good
+E4789,Good
+E4790,Fast learners
+E4791,Fast learners
+E4792,Good
+E4793,Good
+E4794,Good
+E4795,Good
+E4796,Good
+E4797,Good
+E4798,Good
+E4799,Good
+E4800,Good
+E4801,Good
+E4802,Slow learners
+E4803,Good
+E4804,Fast learners
+E4805,Good
+E4806,Good
+E4807,Fast learners
+E4808,Fast learners
+E4809,Fast learners
+E4810,Good
+E4811,Slow learners
+E4812,Good
+E4813,Fast learners
+E4814,Good
+E4815,Good
+E4816,Fast learners
+E4817,Good
+E4818,Good
+E4819,Good
+E4820,Good
+E4821,Good
+E4822,Good
+E4823,Good
+E4824,Slow learners
+E4825,Fast learners
+E4826,Average
+E4827,Average
+E4828,Good
+E4829,Slow learners
+E4830,Good
+E4831,Fast learners
+E4832,Good
+E4833,Average
+E4834,Good
+E4835,Good
+E4836,Good
+E4837,Fast learners
+E4838,Good
+E4839,Average
+E4840,Good
+E4841,Good
+E4842,Fast learners
+E4843,Slow learners
+E4844,Fast learners
+E4845,Fast learners
+E4846,Good
+E4847,Good
+E4848,Average
+E4849,Fast learners
+E4850,Good
+E4851,Average
+E4852,Good
+E4853,Fast learners
+E4854,Fast learners
+E4855,Slow learners
+E4856,Good
+E4857,Slow learners
+E4858,Good
+E4859,Good
+E4860,Good
+E4861,Good
+E4862,Fast learners
+E4863,Average
+E4864,Fast learners
+E4865,Good
+E4866,Good
+E4867,Average
+E4868,Good
+E4869,Good
+E4870,Fast learners
+E4871,Slow learners
+E4872,Slow learners
+E4873,Good
+E4874,Average
+E4875,Good
+E4876,Average
+E4877,Good
+E4878,Good
+E4879,Fast learners
+E4880,Average
+E4881,Good
+E4882,Good
+E4883,Good
+E4884,Fast learners
+E4885,Average
+E4886,Fast learners
+E4887,Good
+E4888,Fast learners
+E4889,Slow learners
+E4890,Good
+E4891,Fast learners
+E4892,Slow learners
+E4893,Slow learners
+E4894,Good
+E4895,Good
+E4896,Good
+E4897,Good
+E4898,Average
+E4899,Good
+E4900,Good
+E4901,Slow learners
+E4902,Good
+E4903,Slow learners
+E4904,Fast learners
+E4905,Good
+E4906,Good
+E4907,Good
+E4908,Good
+E4909,Fast learners
+E4910,Good
+E4911,Fast learners
+E4912,Slow learners
+E4913,Good
+E4914,Good
+E4915,Slow learners
+E4916,Good
+E4917,Good
+E4918,Good
+E4919,Average
+E4920,Fast learners
+E4921,Average
+E4922,Good
+E4923,Average
+E4924,Slow learners
+E4925,Fast learners
+E4926,Good
+E4927,Average
+E4928,Good
+E4929,Average
+E4930,Good
+E4931,Fast learners
+E4932,Slow learners
+E4933,Average
+E4934,Good
+E4935,Fast learners
+E4936,Good
+E4937,Slow learners
+E4938,Fast learners
+E4939,Good
+E4940,Fast learners
+E4941,Good
+E4942,Average
+E4943,Good
+E4944,Average
+E4945,Fast learners
+E4946,Average
+E4947,Fast learners
+E4948,Fast learners
+E4949,Average
+E4950,Fast learners
+E4951,Fast learners
+E4952,Good
+E4953,Good
+E4954,Good
+E4955,Slow learners
+E4956,Good
+E4957,Good
+E4958,Good
+E4959,Slow learners
+E4960,Good
+E4961,Good
+E4962,Good
+E4963,Slow learners
+E4964,Average
+E4965,Fast learners
+E4966,Average
+E4967,Average
+E4968,Good
+E4969,Average
+E4970,Good
+E4971,Average
+E4972,Good
+E4973,Slow learners
+E4974,Good
+E4975,Average
+E4976,Good
+E4977,Good
+E4978,Good
+E4979,Good
+E4980,Good
+E4981,Fast learners
+E4982,Good
+E4983,Good
+E4984,Good
+E4985,Slow learners
+E4986,Average
+E4987,Slow learners
+E4988,Fast learners
+E4989,Good
+E4990,Fast learners
+E4991,Fast learners
+E4992,Fast learners
+E4993,Good
+E4994,Good
+E4995,Good
+E4996,Slow learners
+E4997,Good
+E4998,Fast learners
+E4999,Slow learners
+E5000,Fast learners
